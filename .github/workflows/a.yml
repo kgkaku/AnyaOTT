@@ -1,0 +1,38 @@
+name: AynaOTT
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - run: pip install requests
+      
+      - name: Run script
+        env:
+          SCRIPT: ${{ secrets.AYNA_PY }}
+          COOKIE: ${{ secrets.AYNA_COOKIE }}
+        run: |
+          echo "$SCRIPT" | base64 -d > run.py
+          python run.py
+          rm -f run.py
+      
+      - name: Commit files
+        run: |
+          git config user.name "refresh-ayna[bot]"
+          git config user.email "bot@ayna.kgkaku"
+          git add *.json *.m3u 2>/dev/null || true
+          git commit -m "Refresh AynaOTT playlist $(date '+%Y-%m-%d %H:%M')" || exit 0
+          git push
