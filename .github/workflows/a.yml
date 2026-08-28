@@ -9,30 +9,27 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
       
-      - name: Install Requests
+      - name: Install requests
         run: pip install requests
       
-      - name: Decode & Run
+      - name: Decode and run script
         env:
-          SCRIPT: ${{ secrets.AYNA_PY }}
+          AYNA_PY_B64: ${{ secrets.AYNA_PY }}
           AYNA_COOKIE: ${{ secrets.AYNA_COOKIE }}
         run: |
-          echo "$SCRIPT" | base64 -d > run.py
-          python run.py
-          rm -f run.py
+          echo "$AYNA_PY_B64" | base64 -d > script.py
+          python script.py
       
-      - - name: Commit files
+      - name: Commit updates
         run: |
           git config user.name "refresh-ayna[bot]"
-          git config user.email "bot@ayna.kgkaku"
+          git config user.email "refresh@ayna.kgkaku"
           git add *.json *.m3u 2>/dev/null || true
-          git commit -m "Refresh AynaOTT playlist $(date '+%Y-%m-%d %H:%M')" || exit 0
-          git push
+          git diff --staged --quiet || (git commit -m "Refresh AynaOTT channels [skip ci]" && git push)
