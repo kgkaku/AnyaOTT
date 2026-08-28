@@ -18,18 +18,19 @@ jobs:
         with:
           python-version: '3.x'
       
-      - run: pip install requests
+      - name: Install Request 
+        run: pip install requests
       
-      - name: Run script
+      - name: Decode & Run
         env:
           SCRIPT: ${{ secrets.AYNA_PY }}
-          COOKIE: ${{ secrets.AYNA_COOKIE }}
+          AYNA_COOKIE: ${{ secrets.AYNA_COOKIE }}
         run: |
           echo "$SCRIPT" | base64 -d > run.py
           python run.py
           rm -f run.py
       
-      - name: Commit files
+      - - name: Commit files
         run: |
           git config user.name "refresh-ayna[bot]"
           git config user.email "bot@ayna.kgkaku"
