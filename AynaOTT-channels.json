@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-08-2026 at 05:31:29 AM",
+    "generated_on": "29-08-2026 at 12:14:33 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -532,18 +532,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
       "stream_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39a5-710a-a6eb-845e80fa8251",
-      "nav_path": "/live-tvs/assam-talks",
-      "name": "Assam Talks",
-      "slug": "assam-talks",
-      "description": "Assam Talks brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_175cdaa74b4bc86d10e5b9d49c50b8f1_playmist_assam_talks_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1545,18 +1533,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a38-7452-8cf2-98336ef120ff",
-      "nav_path": "/live-tvs/network-10",
-      "name": "Network 10",
-      "slug": "network-10",
-      "description": "Network 10 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_35e8912e73d3759eb0f9e21a815d1a80_playmist_network_10_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39de-7743-b801-2f7bd6007fe5",
       "nav_path": "/live-tvs/goal-tv",
       "name": "Goal TV",
@@ -2205,18 +2181,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b9c-7741-ad38-6473e3f02b5d",
-      "nav_path": "/live-tvs/mtv",
-      "name": "MTV",
-      "slug": "mtv",
-      "description": "MTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b73-704a-84f5-817ac948026a",
       "nav_path": "/live-tvs/geo-ent",
       "name": "Geo ENT",
@@ -2236,6 +2200,18 @@
       "description": "IBTV USA brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ea41ae173647bec89bc348a11f54d718_playmist_ibtv_usa_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39a5-710a-a6eb-845e80fa8251",
+      "nav_path": "/live-tvs/assam-talks",
+      "name": "Assam Talks",
+      "slug": "assam-talks",
+      "description": "Assam Talks brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_175cdaa74b4bc86d10e5b9d49c50b8f1_playmist_assam_talks_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2284,6 +2260,30 @@
       "description": "Goldmines brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f102735d68ece1e00316c6187b9ad340_playmist_goldmines_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a38-7452-8cf2-98336ef120ff",
+      "nav_path": "/live-tvs/network-10",
+      "name": "Network 10",
+      "slug": "network-10",
+      "description": "Network 10 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_35e8912e73d3759eb0f9e21a815d1a80_playmist_network_10_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b9c-7741-ad38-6473e3f02b5d",
+      "nav_path": "/live-tvs/mtv",
+      "name": "MTV",
+      "slug": "mtv",
+      "description": "MTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
