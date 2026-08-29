@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-08-2026 at 12:14:33 PM",
+    "generated_on": "29-08-2026 at 08:22:16 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -141,18 +141,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-eb56-7241-b7d5-ebb6c8209ebb",
-      "nav_path": "/live-tvs/marquee-sports-network",
-      "name": "Marquee Sports Network",
-      "slug": "marquee-sports-network",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-e9a4-7c81-b8bd-efdeb31d84ec",
       "nav_path": "/live-tvs/tvc-arabic-kids",
       "name": "TVC Arabic Kids",
@@ -256,18 +244,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-de50-7c93-80a8-959a6dfa7f9c",
-      "nav_path": "/live-tvs/sharjah-sports-tv",
-      "name": "Sharjah Sports TV",
-      "slug": "sharjah-sports-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/SharjahSportsTV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1305,18 +1281,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-da61-7080-b398-c15363d19f4c",
-      "nav_path": "/live-tvs/awaaz-india",
-      "name": "Awaaz India",
-      "slug": "awaaz-india",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/456de8974d027b7dda3fc423929f5dec.jpg",
-      "stream_url": null,
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bee-7f21-b4a5-cf84f86442b7",
       "nav_path": "/live-tvs/world-muzzik",
       "name": "World Muzzik",
@@ -1552,18 +1516,6 @@
       "description": "Dabangg brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f53e288446373a26b61189c23616288e_playmist_dabangg_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/cXpKEQ8U/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e8e5-7353-a606-b361cf5f42ce",
-      "nav_path": "/live-tvs/cricket-gold",
-      "name": "Cricket Gold",
-      "slug": "cricket-gold",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1953,18 +1905,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c11-7330-97b6-f67b430b5534",
-      "nav_path": "/live-tvs/channel-win",
-      "name": "Channel Win",
-      "slug": "channel-win",
-      "description": "\nChannel Win  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg",
-      "stream_url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c1b-75c8-a4a5-91373ec4f80a",
       "nav_path": "/live-tvs/time-tv-usa",
       "name": "TIME TV USA",
@@ -2301,6 +2241,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3c11-7330-97b6-f67b430b5534",
+      "nav_path": "/live-tvs/channel-win",
+      "name": "Channel Win",
+      "slug": "channel-win",
+      "description": "\nChannel Win  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg",
+      "stream_url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-da61-7080-b398-c15363d19f4c",
+      "nav_path": "/live-tvs/awaaz-india",
+      "name": "Awaaz India",
+      "slug": "awaaz-india",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/456de8974d027b7dda3fc423929f5dec.jpg",
+      "stream_url": null,
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3b50-7b52-bdb5-7b514bc2f01c",
       "nav_path": "/live-tvs/dhamaal",
       "name": "Dhamaal",
@@ -2313,6 +2277,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019efa45-e8e5-7353-a606-b361cf5f42ce",
+      "nav_path": "/live-tvs/cricket-gold",
+      "name": "Cricket Gold",
+      "slug": "cricket-gold",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-eb56-7241-b7d5-ebb6c8209ebb",
+      "nav_path": "/live-tvs/marquee-sports-network",
+      "name": "Marquee Sports Network",
+      "slug": "marquee-sports-network",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39bc-7bd5-b9e5-bab23ceba9ea",
       "nav_path": "/live-tvs/ptv-sports",
       "name": "PTV Sports",
@@ -2320,6 +2308,18 @@
       "description": "PTV Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
       "stream_url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-de50-7c93-80a8-959a6dfa7f9c",
+      "nav_path": "/live-tvs/sharjah-sports-tv",
+      "name": "Sharjah Sports TV",
+      "slug": "sharjah-sports-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/SharjahSportsTV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
