@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "30-08-2026 at 03:29:46 AM",
+    "generated_on": "30-08-2026 at 11:12:12 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -177,18 +177,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a45-758e-b95b-c37d65b23bea",
-      "nav_path": "/live-tvs/anb-news",
-      "name": "ANB News",
-      "slug": "anb-news",
-      "description": "ANB News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/H5aeGVSjindex.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b59-7a32-a356-afc80c069215",
       "nav_path": "/live-tvs/news-1-india",
       "name": "News 1 India",
@@ -316,18 +304,6 @@
       "description": "\nNFL Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
-      "nav_path": "/live-tvs/nat-geo-tv",
-      "name": "Nat Geo TV",
-      "slug": "nat-geo-tv",
-      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2296,6 +2272,30 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg",
       "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a45-758e-b95b-c37d65b23bea",
+      "nav_path": "/live-tvs/anb-news",
+      "name": "ANB News",
+      "slug": "anb-news",
+      "description": "ANB News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/H5aeGVSjindex.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
+      "nav_path": "/live-tvs/nat-geo-tv",
+      "name": "Nat Geo TV",
+      "slug": "nat-geo-tv",
+      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
