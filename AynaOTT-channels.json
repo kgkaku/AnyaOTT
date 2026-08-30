@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "30-08-2026 at 11:12:12 AM",
+    "generated_on": "30-08-2026 at 03:59:30 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -844,18 +844,6 @@
       "description": "iqra Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_1e415d048ff6a503320fe9e8cb703345_playmist_iqra_bangla_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
-      "nav_path": "/live-tvs/pitaara-tv",
-      "name": "Pitaara TV",
-      "slug": "pitaara-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2296,6 +2284,18 @@
       "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
+      "nav_path": "/live-tvs/pitaara-tv",
+      "name": "Pitaara TV",
+      "slug": "pitaara-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
