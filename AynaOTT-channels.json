@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "01-09-2026 at 04:01:20 PM",
+    "generated_on": "01-09-2026 at 08:30:24 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -748,18 +748,6 @@
       "description": "YTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e8cc865d910abad00a75ef72c8247262_playmist_ytv400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e30d-7833-8fae-6188b3e7f2d6",
-      "nav_path": "/live-tvs/quran",
-      "name": "Quran",
-      "slug": "quran",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2740,6 +2728,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e30d-7833-8fae-6188b3e7f2d6",
+      "nav_path": "/live-tvs/quran",
+      "name": "Quran",
+      "slug": "quran",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
