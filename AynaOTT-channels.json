@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "01-09-2026 at 03:27:33 AM",
+    "generated_on": "01-09-2026 at 11:03:38 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -208,18 +208,6 @@
       "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
       "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
-      "nav_path": "/live-tvs/sky-cinema-animation",
-      "name": "SKY CINEMA ANIMATION",
-      "slug": "sky-cinema-animation",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -496,18 +484,6 @@
       "description": "Discovery Family brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a43-72bb-8d94-e1309e246905",
-      "nav_path": "/live-tvs/india-today",
-      "name": "India Today",
-      "slug": "india-today",
-      "description": "India Today brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c7e1c6e2ec548dee61a1a754955b76e1_playmist_india_today400x400.jpg",
-      "stream_url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2373,6 +2349,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3a43-72bb-8d94-e1309e246905",
+      "nav_path": "/live-tvs/india-today",
+      "name": "India Today",
+      "slug": "india-today",
+      "description": "India Today brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c7e1c6e2ec548dee61a1a754955b76e1_playmist_india_today400x400.jpg",
+      "stream_url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
       "nav_path": "/live-tvs/willow-tv",
       "name": "Willow TV",
@@ -2740,6 +2728,18 @@
       "description": "Boishakhi TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
+      "nav_path": "/live-tvs/sky-cinema-animation",
+      "name": "SKY CINEMA ANIMATION",
+      "slug": "sky-cinema-animation",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
