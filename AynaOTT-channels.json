@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "02-09-2026 at 10:34:53 AM",
+    "generated_on": "02-09-2026 at 03:55:54 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -592,18 +592,6 @@
       "description": "Power Turk brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_921be7b2d6ccc058938b643f66c6e3a8_playmist_power_turk_tv_400x400_update.jpg",
       "stream_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bcf-7b6b-8fc1-575809f11a35",
-      "nav_path": "/live-tvs/cooking-tv",
-      "name": "COOKING TV",
-      "slug": "cooking-tv",
-      "description": "COOKING TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1641,18 +1629,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
-      "nav_path": "/live-tvs/peace-tv-bangla-hd",
-      "name": "Peace TV Bangla HD",
-      "slug": "peace-tv-bangla-hd",
-      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3988-7a1c-a527-25de8003964a",
       "nav_path": "/live-tvs/btv-world",
       "name": "BTV World",
@@ -1828,18 +1804,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bcc9699c8a3c8faf509c92e9280e576f.jpg",
       "stream_url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-ebae-74d0-80f3-0aaa66928bae",
-      "nav_path": "/live-tvs/dubai-sports-1",
-      "name": "Dubai Sports 1",
-      "slug": "dubai-sports-1",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2740,6 +2704,42 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
+      "nav_path": "/live-tvs/peace-tv-bangla-hd",
+      "name": "Peace TV Bangla HD",
+      "slug": "peace-tv-bangla-hd",
+      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-ebae-74d0-80f3-0aaa66928bae",
+      "nav_path": "/live-tvs/dubai-sports-1",
+      "name": "Dubai Sports 1",
+      "slug": "dubai-sports-1",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bcf-7b6b-8fc1-575809f11a35",
+      "nav_path": "/live-tvs/cooking-tv",
+      "name": "COOKING TV",
+      "slug": "cooking-tv",
+      "description": "COOKING TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
