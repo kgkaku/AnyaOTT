@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "02-09-2026 at 03:55:54 PM",
+    "generated_on": "02-09-2026 at 08:28:51 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -976,18 +976,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
       "stream_url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
-      "nav_path": "/live-tvs/hindi-khabar",
-      "name": "Hindi Khabar",
-      "slug": "hindi-khabar",
-      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2553,18 +2541,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b77-7e63-b829-6e2f1fa37ae0",
-      "nav_path": "/live-tvs/and-tv",
-      "name": "And tv",
-      "slug": "and-tv",
-      "description": "And tv brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/AndTV/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b7b-7f49-8f57-6c8fdcb2ee40",
       "nav_path": "/live-tvs/manoranjan-tv",
       "name": "Manoranjan TV",
@@ -2709,18 +2685,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
-      "nav_path": "/live-tvs/peace-tv-bangla-hd",
-      "name": "Peace TV Bangla HD",
-      "slug": "peace-tv-bangla-hd",
-      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-ebae-74d0-80f3-0aaa66928bae",
       "nav_path": "/live-tvs/dubai-sports-1",
       "name": "Dubai Sports 1",
@@ -2733,6 +2697,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
+      "nav_path": "/live-tvs/peace-tv-bangla-hd",
+      "name": "Peace TV Bangla HD",
+      "slug": "peace-tv-bangla-hd",
+      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bcf-7b6b-8fc1-575809f11a35",
       "nav_path": "/live-tvs/cooking-tv",
       "name": "COOKING TV",
@@ -2740,6 +2716,30 @@
       "description": "COOKING TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b77-7e63-b829-6e2f1fa37ae0",
+      "nav_path": "/live-tvs/and-tv",
+      "name": "And tv",
+      "slug": "and-tv",
+      "description": "And tv brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/AndTV/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
+      "nav_path": "/live-tvs/hindi-khabar",
+      "name": "Hindi Khabar",
+      "slug": "hindi-khabar",
+      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
