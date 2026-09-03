@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "03-09-2026 at 03:44:34 PM",
+    "generated_on": "03-09-2026 at 08:28:10 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -196,18 +196,6 @@
       "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
       "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bfc-77c2-821f-120164b37e37",
-      "nav_path": "/live-tvs/fox-weather",
-      "name": "Fox Weather ",
-      "slug": "fox-weather",
-      "description": "Fox Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c6a3d7e8d5ba4bd874a958a0c6f16e8e_playmist_fox_weather400x400.jpg",
-      "stream_url": "https://247wlive.foxweather.com/stream/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2709,18 +2697,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
-      "nav_path": "/live-tvs/peace-tv-bangla-hd",
-      "name": "Peace TV Bangla HD",
-      "slug": "peace-tv-bangla-hd",
-      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
       "nav_path": "/live-tvs/hindi-khabar",
       "name": "Hindi Khabar",
@@ -2740,6 +2716,30 @@
       "description": "\nSky News Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c9929be9ffadd600f20e2d1c4fd26b95_playmist_sky_news_weather400x400.jpg",
       "stream_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
+      "nav_path": "/live-tvs/peace-tv-bangla-hd",
+      "name": "Peace TV Bangla HD",
+      "slug": "peace-tv-bangla-hd",
+      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bfc-77c2-821f-120164b37e37",
+      "nav_path": "/live-tvs/fox-weather",
+      "name": "Fox Weather ",
+      "slug": "fox-weather",
+      "description": "Fox Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c6a3d7e8d5ba4bd874a958a0c6f16e8e_playmist_fox_weather400x400.jpg",
+      "stream_url": "https://247wlive.foxweather.com/stream/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
