@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "03-09-2026 at 10:38:34 AM",
+    "generated_on": "03-09-2026 at 03:44:34 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -160,18 +160,6 @@
       "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b59-7a32-a356-afc80c069215",
-      "nav_path": "/live-tvs/news-1-india",
-      "name": "News 1 India",
-      "slug": "news-1-india",
-      "description": "News 1 India brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1509,18 +1497,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bfe-7a3a-920f-aa4ed99d20ac",
-      "nav_path": "/live-tvs/sky-news-weather",
-      "name": "Sky News Weather",
-      "slug": "sky-news-weather",
-      "description": "\nSky News Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c9929be9ffadd600f20e2d1c4fd26b95_playmist_sky_news_weather400x400.jpg",
-      "stream_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c17-7ee9-9f97-7bc4e8bd84e7",
       "nav_path": "/live-tvs/madani-tv",
       "name": "MADANI TV",
@@ -2697,18 +2673,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
-      "nav_path": "/live-tvs/peace-tv-bangla-hd",
-      "name": "Peace TV Bangla HD",
-      "slug": "peace-tv-bangla-hd",
-      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bcf-7b6b-8fc1-575809f11a35",
       "nav_path": "/live-tvs/cooking-tv",
       "name": "COOKING TV",
@@ -2733,6 +2697,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3b59-7a32-a356-afc80c069215",
+      "nav_path": "/live-tvs/news-1-india",
+      "name": "News 1 India",
+      "slug": "news-1-india",
+      "description": "News 1 India brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
+      "nav_path": "/live-tvs/peace-tv-bangla-hd",
+      "name": "Peace TV Bangla HD",
+      "slug": "peace-tv-bangla-hd",
+      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
       "nav_path": "/live-tvs/hindi-khabar",
       "name": "Hindi Khabar",
@@ -2740,6 +2728,18 @@
       "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bfe-7a3a-920f-aa4ed99d20ac",
+      "nav_path": "/live-tvs/sky-news-weather",
+      "name": "Sky News Weather",
+      "slug": "sky-news-weather",
+      "description": "\nSky News Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c9929be9ffadd600f20e2d1c4fd26b95_playmist_sky_news_weather400x400.jpg",
+      "stream_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
