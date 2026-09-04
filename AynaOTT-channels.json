@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "04-09-2026 at 02:48:51 AM",
+    "generated_on": "04-09-2026 at 10:32:41 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -1245,18 +1245,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c13-703e-b125-6fe000541d15",
-      "nav_path": "/live-tvs/deen-tv",
-      "name": "Deen TV",
-      "slug": "deen-tv",
-      "description": "Deen TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bae-7f5e-a48a-e01313b0913f",
       "nav_path": "/live-tvs/discovery-turbo",
       "name": "Discovery Turbo",
@@ -1929,18 +1917,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b73-704a-84f5-817ac948026a",
-      "nav_path": "/live-tvs/geo-ent",
-      "name": "Geo ENT",
-      "slug": "geo-ent",
-      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
-      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c1d-7749-b5b4-90c57752071b",
       "nav_path": "/live-tvs/ibtv-usa",
       "name": "IBTV USA",
@@ -2116,18 +2092,6 @@
       "description": "ANB News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/H5aeGVSjindex.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
-      "nav_path": "/live-tvs/nat-geo-tv",
-      "name": "Nat Geo TV",
-      "slug": "nat-geo-tv",
-      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2697,18 +2661,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
-      "nav_path": "/live-tvs/hindi-khabar",
-      "name": "Hindi Khabar",
-      "slug": "hindi-khabar",
-      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bfe-7a3a-920f-aa4ed99d20ac",
       "nav_path": "/live-tvs/sky-news-weather",
       "name": "Sky News Weather",
@@ -2733,6 +2685,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
+      "nav_path": "/live-tvs/nat-geo-tv",
+      "name": "Nat Geo TV",
+      "slug": "nat-geo-tv",
+      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bfc-77c2-821f-120164b37e37",
       "nav_path": "/live-tvs/fox-weather",
       "name": "Fox Weather ",
@@ -2740,6 +2704,42 @@
       "description": "Fox Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c6a3d7e8d5ba4bd874a958a0c6f16e8e_playmist_fox_weather400x400.jpg",
       "stream_url": "https://247wlive.foxweather.com/stream/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
+      "nav_path": "/live-tvs/hindi-khabar",
+      "name": "Hindi Khabar",
+      "slug": "hindi-khabar",
+      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b73-704a-84f5-817ac948026a",
+      "nav_path": "/live-tvs/geo-ent",
+      "name": "Geo ENT",
+      "slug": "geo-ent",
+      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
+      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c13-703e-b125-6fe000541d15",
+      "nav_path": "/live-tvs/deen-tv",
+      "name": "Deen TV",
+      "slug": "deen-tv",
+      "description": "Deen TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
