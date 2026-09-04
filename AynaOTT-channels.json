@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "04-09-2026 at 10:32:41 AM",
+    "generated_on": "04-09-2026 at 03:43:15 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -2709,18 +2709,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
-      "nav_path": "/live-tvs/hindi-khabar",
-      "name": "Hindi Khabar",
-      "slug": "hindi-khabar",
-      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b73-704a-84f5-817ac948026a",
       "nav_path": "/live-tvs/geo-ent",
       "name": "Geo ENT",
@@ -2752,6 +2740,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
       "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
+      "nav_path": "/live-tvs/hindi-khabar",
+      "name": "Hindi Khabar",
+      "slug": "hindi-khabar",
+      "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
