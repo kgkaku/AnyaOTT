@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "05-09-2026 at 02:50:37 AM",
+    "generated_on": "05-09-2026 at 09:55:26 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -1557,18 +1557,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b79-7721-8eb4-041c36303ee0",
-      "nav_path": "/live-tvs/manoranjan-movies",
-      "name": "Manoranjan Movies",
-      "slug": "manoranjan-movies",
-      "description": "Manoranjan Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fa199bbc64f6fb27edca5b1205217dce_playmist_manoranjan_movies_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5N/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3988-7a1c-a527-25de8003964a",
       "nav_path": "/live-tvs/btv-world",
       "name": "BTV World",
@@ -2752,6 +2740,18 @@
       "description": "Hindi Khabar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b79-7721-8eb4-041c36303ee0",
+      "nav_path": "/live-tvs/manoranjan-movies",
+      "name": "Manoranjan Movies",
+      "slug": "manoranjan-movies",
+      "description": "Manoranjan Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fa199bbc64f6fb27edca5b1205217dce_playmist_manoranjan_movies_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5N/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
