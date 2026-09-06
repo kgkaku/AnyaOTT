@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "06-09-2026 at 02:53:35 PM",
+    "generated_on": "06-09-2026 at 07:57:51 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -352,18 +352,6 @@
       "description": "TSN 3 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
       "stream_url": "https://tvsen7.aynascope.net/tsn3/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a49-76c5-baa6-12c71aa6e36e",
-      "nav_path": "/live-tvs/9x-jalwa",
-      "name": "9x Jalwa",
-      "slug": "9x-jalwa",
-      "description": "9x Jalwa brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2752,6 +2740,18 @@
       "description": "TSN 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
       "stream_url": "https://tvsen7.aynascope.net/tsn1/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a49-76c5-baa6-12c71aa6e36e",
+      "nav_path": "/live-tvs/9x-jalwa",
+      "name": "9x Jalwa",
+      "slug": "9x-jalwa",
+      "description": "9x Jalwa brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
