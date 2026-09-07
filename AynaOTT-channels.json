@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "07-09-2026 at 02:46:38 AM",
+    "generated_on": "07-09-2026 at 11:31:06 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -2259,7 +2259,7 @@
       "slug": "maasranga-tv",
       "description": "Maasranga TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8",
+      "stream_url": "https://tvsen6.aynaott.com/maasrangatv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2307,7 +2307,7 @@
       "slug": "independent-tv",
       "description": "Independent TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d7df8a2523be6a1fc0c54ddafc046dc2_playmist_independent_400x400.jpg",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+      "stream_url": "https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2355,7 +2355,7 @@
       "slug": "channel-9",
       "description": "Channel 9 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8",
+      "stream_url": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2379,7 +2379,7 @@
       "slug": "channel-24",
       "description": "Test description for the test live tv",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png",
-      "stream_url": "https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8",
+      "stream_url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
