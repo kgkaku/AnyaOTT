@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "08-09-2026 at 08:41:14 PM",
+    "generated_on": "09-09-2026 at 02:57:59 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -592,18 +592,6 @@
       "description": "pix 11 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_df5bc6edb722446e3223f42772b0919e_playmist_pix11_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/GPHeknR5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bf6-7323-a2a9-3e23664ae2cd",
-      "nav_path": "/live-tvs/aspark-tv",
-      "name": "ASPARK TV",
-      "slug": "aspark-tv",
-      "description": "ASPARK TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5b56c4f47c9ac4ea4291c193fd607cfa_playmist_aspark_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2752,6 +2740,18 @@
       "description": "9x Jalwa brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bf6-7323-a2a9-3e23664ae2cd",
+      "nav_path": "/live-tvs/aspark-tv",
+      "name": "ASPARK TV",
+      "slug": "aspark-tv",
+      "description": "ASPARK TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5b56c4f47c9ac4ea4291c193fd607cfa_playmist_aspark_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
