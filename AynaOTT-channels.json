@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "11-09-2026 at 02:53:48 AM",
+    "generated_on": "11-09-2026 at 10:33:57 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -1413,18 +1413,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b88-7be1-b385-a9648ad6a2cd",
-      "nav_path": "/live-tvs/bloomberg-tv",
-      "name": "Bloomberg TV",
-      "slug": "bloomberg-tv",
-      "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-397c-7793-918c-acbc11004934",
       "nav_path": "/live-tvs/nexus-tv",
       "name": "NEXUS TV",
@@ -2673,18 +2661,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-df9a-7792-8f7c-3ea7e9aae905",
-      "nav_path": "/live-tvs/sony-aath",
-      "name": "Sony AATH",
-      "slug": "sony-aath",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
-      "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a3e-796d-8c43-5dcdfb8361b9",
       "nav_path": "/live-tvs/hindi-khabar",
       "name": "Hindi Khabar",
@@ -2752,6 +2728,30 @@
       "description": "ASPARK TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5b56c4f47c9ac4ea4291c193fd607cfa_playmist_aspark_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-df9a-7792-8f7c-3ea7e9aae905",
+      "nav_path": "/live-tvs/sony-aath",
+      "name": "Sony AATH",
+      "slug": "sony-aath",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
+      "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b88-7be1-b385-a9648ad6a2cd",
+      "nav_path": "/live-tvs/bloomberg-tv",
+      "name": "Bloomberg TV",
+      "slug": "bloomberg-tv",
+      "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
