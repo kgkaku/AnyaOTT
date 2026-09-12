@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-09-2026 at 03:01:08 AM",
+    "generated_on": "12-09-2026 at 10:02:24 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -964,18 +964,6 @@
       "description": "Sports First TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1e8f6268734530db4020f0af078ed8cb_playmist_sports_first400x400.jpg",
       "stream_url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bc5-70aa-b7d9-555b10cb474f",
-      "nav_path": "/live-tvs/usa-tv",
-      "name": "   \t USA TV",
-      "slug": "usa-tv",
-      "description": "USA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2740,6 +2728,18 @@
       "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bc5-70aa-b7d9-555b10cb474f",
+      "nav_path": "/live-tvs/usa-tv",
+      "name": "   \t USA TV",
+      "slug": "usa-tv",
+      "description": "USA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
