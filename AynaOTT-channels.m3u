@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 12-09-2026 at 10:02:24 AM
+# Generated on: 12-09-2026 at 02:56:57 PM
 # Total Channels: 237 | Active: 229
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="tv9-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="AynaOTT",TV9 Bangla
@@ -423,12 +423,6 @@ https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/channel52/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3b5b-7c37-a953-8eed8e882836" tvg-name="sadhna-prime-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg" group-title="AynaOTT",Sadhna Prime News
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bb1-775b-9c32-aad40ee46faf" tvg-name="discovery-hd" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg" group-title="AynaOTT",Discovery HD
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
@@ -1317,6 +1311,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3b5b-7c37-a953-8eed8e882836" tvg-name="sadhna-prime-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg" group-title="AynaOTT",Sadhna Prime News
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="usa-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="AynaOTT",   	 USA TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/

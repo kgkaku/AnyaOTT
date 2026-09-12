@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-09-2026 at 10:02:24 AM",
+    "generated_on": "12-09-2026 at 02:56:57 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -916,18 +916,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
       "stream_url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
-      "nav_path": "/live-tvs/sadhna-prime-news",
-      "name": "Sadhna Prime News",
-      "slug": "sadhna-prime-news",
-      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2728,6 +2716,18 @@
       "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
+      "nav_path": "/live-tvs/sadhna-prime-news",
+      "name": "Sadhna Prime News",
+      "slug": "sadhna-prime-news",
+      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
