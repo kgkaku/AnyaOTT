@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-09-2026 at 11:02:52 AM",
+    "generated_on": "13-09-2026 at 03:34:19 PM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -1005,18 +1005,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39a3-74dd-8ef6-fbe0295e1222",
-      "nav_path": "/live-tvs/kolkata-tv",
-      "name": "kolkata TV",
-      "slug": "kolkata-tv",
-      "description": "kolkata TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-399d-755c-a297-7bd85e44f4bf",
       "nav_path": "/live-tvs/republic-bangla",
       "name": "Republic Bangla",
@@ -1048,18 +1036,6 @@
       "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39af-74c7-ad3c-bb81cae61141",
-      "nav_path": "/live-tvs/dd-bangla",
-      "name": "DD Bangla",
-      "slug": "dd-bangla",
-      "description": "DD Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg",
-      "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2253,18 +2229,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a09-7284-a479-79a453e28305",
-      "nav_path": "/live-tvs/espn",
-      "name": "ESPN",
-      "slug": "espn",
-      "description": "Espn brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/espn/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b5f-7a60-9c5c-1b8326d70a92",
       "nav_path": "/live-tvs/pictures",
       "name": "& Pictures",
@@ -2685,18 +2649,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
-      "nav_path": "/live-tvs/sadhna-prime-news",
-      "name": "Sadhna Prime News",
-      "slug": "sadhna-prime-news",
-      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bc5-70aa-b7d9-555b10cb474f",
       "nav_path": "/live-tvs/usa-tv",
       "name": "   \t USA TV",
@@ -2752,6 +2704,54 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
       "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a09-7284-a479-79a453e28305",
+      "nav_path": "/live-tvs/espn",
+      "name": "ESPN",
+      "slug": "espn",
+      "description": "Espn brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/espn/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39af-74c7-ad3c-bb81cae61141",
+      "nav_path": "/live-tvs/dd-bangla",
+      "name": "DD Bangla",
+      "slug": "dd-bangla",
+      "description": "DD Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg",
+      "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
+      "nav_path": "/live-tvs/sadhna-prime-news",
+      "name": "Sadhna Prime News",
+      "slug": "sadhna-prime-news",
+      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39a3-74dd-8ef6-fbe0295e1222",
+      "nav_path": "/live-tvs/kolkata-tv",
+      "name": "kolkata TV",
+      "slug": "kolkata-tv",
+      "description": "kolkata TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
