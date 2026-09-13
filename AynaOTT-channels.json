@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-09-2026 at 03:01:07 AM",
+    "generated_on": "13-09-2026 at 11:02:52 AM",
     "total_channels": 237,
     "active_channels": 229,
     "inactive_channels": 8
@@ -2589,18 +2589,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b73-704a-84f5-817ac948026a",
-      "nav_path": "/live-tvs/geo-ent",
-      "name": "Geo ENT",
-      "slug": "geo-ent",
-      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
-      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c13-703e-b125-6fe000541d15",
       "nav_path": "/live-tvs/deen-tv",
       "name": "Deen TV",
@@ -2716,6 +2704,18 @@
       "description": "USA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b73-704a-84f5-817ac948026a",
+      "nav_path": "/live-tvs/geo-ent",
+      "name": "Geo ENT",
+      "slug": "geo-ent",
+      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
+      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
