@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-09-2026 at 05:38:01 PM",
+    "generated_on": "14-09-2026 at 09:26:23 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -2313,18 +2313,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3995-7e6d-9338-21fd1417ccee",
-      "nav_path": "/live-tvs/g-series",
-      "name": "G series",
-      "slug": "g-series",
-      "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
-      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3982-77f6-b5ed-24caa6edc4c8",
       "nav_path": "/live-tvs/my-tv",
       "name": "My TV",
@@ -2733,18 +2721,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
-      "nav_path": "/live-tvs/pitaara-tv",
-      "name": "Pitaara TV",
-      "slug": "pitaara-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
       "nav_path": "/live-tvs/sadhna-prime-news",
       "name": "Sadhna Prime News",
@@ -2757,6 +2733,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
+      "nav_path": "/live-tvs/pitaara-tv",
+      "name": "Pitaara TV",
+      "slug": "pitaara-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39a3-74dd-8ef6-fbe0295e1222",
       "nav_path": "/live-tvs/kolkata-tv",
       "name": "kolkata TV",
@@ -2764,6 +2752,18 @@
       "description": "kolkata TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3995-7e6d-9338-21fd1417ccee",
+      "nav_path": "/live-tvs/g-series",
+      "name": "G series",
+      "slug": "g-series",
+      "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
+      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
