@@ -2,9 +2,9 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-09-2026 at 03:15:20 AM",
-    "total_channels": 237,
-    "active_channels": 229,
+    "generated_on": "14-09-2026 at 11:44:01 AM",
+    "total_channels": 238,
+    "active_channels": 230,
     "inactive_channels": 8
   },
   "channels": [
@@ -64,18 +64,6 @@
       "description": "",
       "logo": "https://s3.aynaott.com/storage/65fe806ed3cd5b20e44e3fefc219ecea",
       "stream_url": null,
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b6b-7874-988b-5d148182b02d",
-      "nav_path": "/live-tvs/hindi-movie-classic-24",
-      "name": "Hindi Movie Classic 24",
-      "slug": "hindi-movie-classic-24",
-      "description": "Hindi Movie Classic 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",
-      "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1336,6 +1324,18 @@
       "description": "HBO 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+      "nav_path": "/live-tvs/tnt-sport-1",
+      "name": "TNT Sport 1",
+      "slug": "tnt-sport-1",
+      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2728,6 +2728,18 @@
       "description": "DD Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg",
       "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b6b-7874-988b-5d148182b02d",
+      "nav_path": "/live-tvs/hindi-movie-classic-24",
+      "name": "Hindi Movie Classic 24",
+      "slug": "hindi-movie-classic-24",
+      "description": "Hindi Movie Classic 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",
+      "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
