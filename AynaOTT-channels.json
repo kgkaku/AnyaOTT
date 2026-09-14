@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-09-2026 at 11:44:01 AM",
+    "generated_on": "14-09-2026 at 05:38:01 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -184,18 +184,6 @@
       "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
       "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39a7-750d-a029-c9ac049ccb6a",
-      "nav_path": "/live-tvs/r-plus",
-      "name": "R Plus",
-      "slug": "r-plus",
-      "description": "R Plus brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0ec7deccac559ad2e22206dae03454e1_playmist_r_plus_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1977,18 +1965,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
-      "nav_path": "/live-tvs/pitaara-tv",
-      "name": "Pitaara TV",
-      "slug": "pitaara-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39bc-7bd5-b9e5-bab23ceba9ea",
       "nav_path": "/live-tvs/ptv-sports",
       "name": "PTV Sports",
@@ -2733,6 +2709,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-39a7-750d-a029-c9ac049ccb6a",
+      "nav_path": "/live-tvs/r-plus",
+      "name": "R Plus",
+      "slug": "r-plus",
+      "description": "R Plus brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0ec7deccac559ad2e22206dae03454e1_playmist_r_plus_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3b6b-7874-988b-5d148182b02d",
       "nav_path": "/live-tvs/hindi-movie-classic-24",
       "name": "Hindi Movie Classic 24",
@@ -2740,6 +2728,18 @@
       "description": "Hindi Movie Classic 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",
       "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f401f-3897-7291-8783-ed9b4301df6e",
+      "nav_path": "/live-tvs/pitaara-tv",
+      "name": "Pitaara TV",
+      "slug": "pitaara-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
