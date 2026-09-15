@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-09-2026 at 09:26:23 PM",
+    "generated_on": "15-09-2026 at 03:17:07 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1300,18 +1300,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg",
       "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bb9-7ee4-8c94-b23590436802",
-      "nav_path": "/live-tvs/hbo-2",
-      "name": "HBO 2",
-      "slug": "hbo-2",
-      "description": "HBO 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,6 +2752,18 @@
       "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
       "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bb9-7ee4-8c94-b23590436802",
+      "nav_path": "/live-tvs/hbo-2",
+      "name": "HBO 2",
+      "slug": "hbo-2",
+      "description": "HBO 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
