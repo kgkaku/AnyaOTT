@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 16-09-2026 at 08:50:27 PM
+# Generated on: 17-09-2026 at 03:18:39 AM
 # Total Channels: 238 | Active: 230
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="tv9-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="AynaOTT",TV9 Bangla
@@ -45,12 +45,6 @@ https://tvsen6.aynaott.com/pwVHY93j/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen7.aynaott.com/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3986-7129-aee7-62a7ac202bec" tvg-name="gazi-tv" tvg-logo="https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4" group-title="AynaOTT",Gazi TV
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b65-7872-a707-c2324a037cc9" tvg-name="zoom-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg" group-title="AynaOTT",Zoom TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
@@ -141,12 +135,6 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen7.aynascope.net/tsn2/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3b84-75ce-b64d-bd376de18c49" tvg-name="cp-24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg" group-title="AynaOTT",CP 24
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen6.aynaott.com/cp24/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b7d-74a7-8be1-7bd2335ecb31" tvg-name="bbc-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg" group-title="AynaOTT",BBC News
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
@@ -1287,6 +1275,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3b84-75ce-b64d-bd376de18c49" tvg-name="cp-24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg" group-title="AynaOTT",CP 24
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen6.aynaott.com/cp24/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3986-7129-aee7-62a7ac202bec" tvg-name="gazi-tv" tvg-logo="https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4" group-title="AynaOTT",Gazi TV
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3988-7a1c-a527-25de8003964a" tvg-name="btv-world" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg" group-title="AynaOTT",BTV World
 #EXTVLCOPT:http-origin=https://web.aynaott.com/

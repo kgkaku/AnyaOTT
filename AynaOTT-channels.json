@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "16-09-2026 at 08:50:27 PM",
+    "generated_on": "17-09-2026 at 03:18:39 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -160,18 +160,6 @@
       "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3986-7129-aee7-62a7ac202bec",
-      "nav_path": "/live-tvs/gazi-tv",
-      "name": "Gazi TV",
-      "slug": "gazi-tv",
-      "description": "\nGazi TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4",
-      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -352,18 +340,6 @@
       "description": "TSN 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
       "stream_url": "https://tvsen7.aynascope.net/tsn2/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b84-75ce-b64d-bd376de18c49",
-      "nav_path": "/live-tvs/cp-24",
-      "name": "CP 24",
-      "slug": "cp-24",
-      "description": "CP 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2668,6 +2644,30 @@
       "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
       "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b84-75ce-b64d-bd376de18c49",
+      "nav_path": "/live-tvs/cp-24",
+      "name": "CP 24",
+      "slug": "cp-24",
+      "description": "CP 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3986-7129-aee7-62a7ac202bec",
+      "nav_path": "/live-tvs/gazi-tv",
+      "name": "Gazi TV",
+      "slug": "gazi-tv",
+      "description": "\nGazi TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4",
+      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
