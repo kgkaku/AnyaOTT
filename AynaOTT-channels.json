@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "17-09-2026 at 04:11:30 PM",
+    "generated_on": "17-09-2026 at 08:55:39 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -664,18 +664,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1588,18 +1576,6 @@
       "description": "9XM brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3c00-718e-9487-01b8e71feb2d",
-      "nav_path": "/live-tvs/weather-spy",
-      "name": "Weather SPY",
-      "slug": "weather-spy",
-      "description": "Weather SPY Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg",
-      "stream_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2613,6 +2589,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3c00-718e-9487-01b8e71feb2d",
+      "nav_path": "/live-tvs/weather-spy",
+      "name": "Weather SPY",
+      "slug": "weather-spy",
+      "description": "Weather SPY Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg",
+      "stream_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-394b-769f-a201-f04269d4b8fb",
       "nav_path": "/live-tvs/star-news",
       "name": "Star News",
@@ -2716,6 +2704,18 @@
       "description": "Channel 9 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
