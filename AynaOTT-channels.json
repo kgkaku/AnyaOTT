@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "17-09-2026 at 10:55:39 AM",
+    "generated_on": "17-09-2026 at 04:11:30 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -2469,18 +2469,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b88-7be1-b385-a9648ad6a2cd",
-      "nav_path": "/live-tvs/bloomberg-tv",
-      "name": "Bloomberg TV",
-      "slug": "bloomberg-tv",
-      "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bc5-70aa-b7d9-555b10cb474f",
       "nav_path": "/live-tvs/usa-tv",
       "name": "   \t USA TV",
@@ -2680,6 +2668,18 @@
       "description": "BTV World brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b88-7be1-b385-a9648ad6a2cd",
+      "nav_path": "/live-tvs/bloomberg-tv",
+      "name": "Bloomberg TV",
+      "slug": "bloomberg-tv",
+      "description": "Bloomberg TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
