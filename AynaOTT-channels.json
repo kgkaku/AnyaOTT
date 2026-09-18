@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "18-09-2026 at 10:31:18 AM",
+    "generated_on": "18-09-2026 at 03:47:30 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -2529,18 +2529,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b6b-7874-988b-5d148182b02d",
-      "nav_path": "/live-tvs/hindi-movie-classic-24",
-      "name": "Hindi Movie Classic 24",
-      "slug": "hindi-movie-classic-24",
-      "description": "Hindi Movie Classic 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",
-      "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b5b-7c37-a953-8eed8e882836",
       "nav_path": "/live-tvs/sadhna-prime-news",
       "name": "Sadhna Prime News",
@@ -2728,6 +2716,18 @@
       "description": "Fox News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b6b-7874-988b-5d148182b02d",
+      "nav_path": "/live-tvs/hindi-movie-classic-24",
+      "name": "Hindi Movie Classic 24",
+      "slug": "hindi-movie-classic-24",
+      "description": "Hindi Movie Classic 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",
+      "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null

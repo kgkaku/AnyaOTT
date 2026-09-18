@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 18-09-2026 at 10:31:18 AM
+# Generated on: 18-09-2026 at 03:47:30 PM
 # Total Channels: 238 | Active: 230
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="tv9-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="AynaOTT",TV9 Bangla
@@ -1216,12 +1216,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3b6b-7874-988b-5d148182b02d" tvg-name="hindi-movie-classic-24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" group-title="AynaOTT",Hindi Movie Classic 24
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3b5b-7c37-a953-8eed8e882836" tvg-name="sadhna-prime-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg" group-title="AynaOTT",Sadhna Prime News
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -1317,6 +1311,12 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3b6b-7874-988b-5d148182b02d" tvg-name="hindi-movie-classic-24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" group-title="AynaOTT",Hindi Movie Classic 24
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bc3-7f1b-9825-7f2e4bd0ad29" tvg-name="cbs-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5cd9688088c2f3b2201b17378bc5081c_playmist_cbs_tv_400x400.jpg" group-title="AynaOTT",CBS TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
