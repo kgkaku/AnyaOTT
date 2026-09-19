@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 19-09-2026 at 10:16:07 AM
+# Generated on: 19-09-2026 at 03:19:03 PM
 # Total Channels: 238 | Active: 230
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="tv9-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="AynaOTT",TV9 Bangla
@@ -964,12 +964,6 @@ https://tvsen6.aynaott.com/maasrangatv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3941-7ff1-a7e5-67c5887e9142" tvg-name="ekattor-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d5ddbbec6b7919b1003233819616e19b_playmist_ekattor_tv_400x400.jpg" group-title="AynaOTT",Ekattor TV
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-396a-7e3b-ae50-1d20c8ce2323" tvg-name="independent-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d7df8a2523be6a1fc0c54ddafc046dc2_playmist_independent_400x400.jpg" group-title="AynaOTT",Independent TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -1329,6 +1323,12 @@ https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3941-7ff1-a7e5-67c5887e9142" tvg-name="ekattor-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d5ddbbec6b7919b1003233819616e19b_playmist_ekattor_tv_400x400.jpg" group-title="AynaOTT",Ekattor TV
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b82-7f2d-a547-3c57eaa3dc10" tvg-name="aljazeera-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="AynaOTT",Aljazeera News
 #EXTVLCOPT:http-origin=https://web.aynaott.com/

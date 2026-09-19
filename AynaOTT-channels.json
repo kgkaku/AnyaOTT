@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "19-09-2026 at 10:16:07 AM",
+    "generated_on": "19-09-2026 at 03:19:03 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -2025,18 +2025,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3941-7ff1-a7e5-67c5887e9142",
-      "nav_path": "/live-tvs/ekattor-tv",
-      "name": "Ekattor TV",
-      "slug": "ekattor-tv",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d5ddbbec6b7919b1003233819616e19b_playmist_ekattor_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-396a-7e3b-ae50-1d20c8ce2323",
       "nav_path": "/live-tvs/independent-tv",
       "name": "Independent TV",
@@ -2752,6 +2740,18 @@
       "description": "Thikana brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg",
       "stream_url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3941-7ff1-a7e5-67c5887e9142",
+      "nav_path": "/live-tvs/ekattor-tv",
+      "name": "Ekattor TV",
+      "slug": "ekattor-tv",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d5ddbbec6b7919b1003233819616e19b_playmist_ekattor_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
