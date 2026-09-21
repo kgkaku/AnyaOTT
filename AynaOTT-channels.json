@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "21-09-2026 at 03:12:30 AM",
+    "generated_on": "21-09-2026 at 11:56:32 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1617,18 +1617,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-e254-7c10-817c-c86d5beab53f",
-      "nav_path": "/live-tvs/dhoom-music-bangla",
-      "name": "Dhoom Music Bangla",
-      "slug": "dhoom-music-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_308780d623c52c9b477206d44a374ff3_playmist_dhoom_music_bangla_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/dhoom/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39f1-7e14-93de-7debf3a4fc03",
       "nav_path": "/live-tvs/ktv-sport-plus",
       "name": "KTV Sport Plus",
@@ -2764,6 +2752,18 @@
       "description": "Republic TV Bharat brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e254-7c10-817c-c86d5beab53f",
+      "nav_path": "/live-tvs/dhoom-music-bangla",
+      "name": "Dhoom Music Bangla",
+      "slug": "dhoom-music-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_308780d623c52c9b477206d44a374ff3_playmist_dhoom_music_bangla_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/dhoom/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
