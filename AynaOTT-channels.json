@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "20-09-2026 at 08:17:27 PM",
+    "generated_on": "21-09-2026 at 03:12:30 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1324,18 +1324,6 @@
       "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a3c-71e5-8c69-161f0f895a02",
-      "nav_path": "/live-tvs/republic-tv-bharat",
-      "name": "Republic TV Bharat",
-      "slug": "republic-tv-bharat",
-      "description": "Republic TV Bharat brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2721,18 +2709,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b82-7f2d-a547-3c57eaa3dc10",
-      "nav_path": "/live-tvs/aljazeera-news",
-      "name": "Aljazeera News",
-      "slug": "aljazeera-news",
-      "description": "AlJazeera brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg",
-      "stream_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b94-797d-aeee-9faee1bc9b40",
       "nav_path": "/live-tvs/fox-news",
       "name": "Fox News",
@@ -2740,6 +2716,18 @@
       "description": "Fox News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b82-7f2d-a547-3c57eaa3dc10",
+      "nav_path": "/live-tvs/aljazeera-news",
+      "name": "Aljazeera News",
+      "slug": "aljazeera-news",
+      "description": "AlJazeera brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg",
+      "stream_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,6 +2752,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a3c-71e5-8c69-161f0f895a02",
+      "nav_path": "/live-tvs/republic-tv-bharat",
+      "name": "Republic TV Bharat",
+      "slug": "republic-tv-bharat",
+      "description": "Republic TV Bharat brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
