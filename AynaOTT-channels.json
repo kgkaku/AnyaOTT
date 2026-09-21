@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "21-09-2026 at 11:56:32 AM",
+    "generated_on": "21-09-2026 at 05:55:56 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -844,18 +844,6 @@
       "description": "Discovery HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b86-739c-ae1e-0e7c43b5b36d",
-      "nav_path": "/live-tvs/dw-news",
-      "name": "DW News",
-      "slug": "dw-news",
-      "description": "DW News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,6 +2752,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_308780d623c52c9b477206d44a374ff3_playmist_dhoom_music_bangla_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/dhoom/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b86-739c-ae1e-0e7c43b5b36d",
+      "nav_path": "/live-tvs/dw-news",
+      "name": "DW News",
+      "slug": "dw-news",
+      "description": "DW News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
