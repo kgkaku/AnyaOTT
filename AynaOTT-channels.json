@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "22-09-2026 at 03:12:10 AM",
+    "generated_on": "22-09-2026 at 10:56:01 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -777,18 +777,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
-      "nav_path": "/live-tvs/bangla-vision",
-      "name": "Bangla Vision",
-      "slug": "bangla-vision",
-      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-e89e-7321-9fc2-9cf4976f1179",
       "nav_path": "/live-tvs/dubai-sports-2",
       "name": "Dubai Sports 2",
@@ -928,18 +916,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/c5fd881d11a213c415e1b6b1675ff689.jpg",
       "stream_url": null,
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-395b-7132-9cc9-b3571e766644",
-      "nav_path": "/live-tvs/etv",
-      "name": "ETV",
-      "slug": "etv",
-      "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,6 +2740,30 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-395b-7132-9cc9-b3571e766644",
+      "nav_path": "/live-tvs/etv",
+      "name": "ETV",
+      "slug": "etv",
+      "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
+      "nav_path": "/live-tvs/bangla-vision",
+      "name": "Bangla Vision",
+      "slug": "bangla-vision",
+      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
