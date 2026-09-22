@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 21-09-2026 at 09:42:50 PM
+# Generated on: 22-09-2026 at 03:12:10 AM
 # Total Channels: 238 | Active: 230
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="tv9-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="AynaOTT",TV9 Bangla
@@ -1252,12 +1252,6 @@ https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8
 
-#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="colors-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg" group-title="AynaOTT",Colors Bangla
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3b6b-7874-988b-5d148182b02d" tvg-name="hindi-movie-classic-24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" group-title="AynaOTT",Hindi Movie Classic 24
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -1335,6 +1329,12 @@ https://tvsen6.aynaott.com/dhoom/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+
+#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="colors-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg" group-title="AynaOTT",Colors Bangla
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3937-7e18-be86-47d2a7a4ab2d" tvg-name="test-live-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png" group-title="AynaOTT",Test Live TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
