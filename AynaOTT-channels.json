@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "22-09-2026 at 08:51:15 PM",
+    "generated_on": "23-09-2026 at 03:12:00 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -2229,18 +2229,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
-      "nav_path": "/live-tvs/nat-geo-tv",
-      "name": "Nat Geo TV",
-      "slug": "nat-geo-tv",
-      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bfc-77c2-821f-120164b37e37",
       "nav_path": "/live-tvs/fox-weather",
       "name": "Fox Weather ",
@@ -2464,18 +2452,6 @@
       "description": "kolkata TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3c00-718e-9487-01b8e71feb2d",
-      "nav_path": "/live-tvs/weather-spy",
-      "name": "Weather SPY",
-      "slug": "weather-spy",
-      "description": "Weather SPY Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg",
-      "stream_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2733,6 +2709,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3c00-718e-9487-01b8e71feb2d",
+      "nav_path": "/live-tvs/weather-spy",
+      "name": "Weather SPY",
+      "slug": "weather-spy",
+      "description": "Weather SPY Weather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg",
+      "stream_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
       "nav_path": "/live-tvs/colors-bangla",
       "name": "Colors Bangla",
@@ -2764,6 +2752,18 @@
       "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
+      "nav_path": "/live-tvs/nat-geo-tv",
+      "name": "Nat Geo TV",
+      "slug": "nat-geo-tv",
+      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
