@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "23-09-2026 at 04:02:54 PM",
+    "generated_on": "23-09-2026 at 09:02:37 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1485,18 +1485,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bfa-71a7-92c2-a1cad28b99e5",
-      "nav_path": "/live-tvs/accu-weather",
-      "name": "Accu Weather",
-      "slug": "accu-weather",
-      "description": "AccuWeather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg",
-      "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a4f-778c-990c-ff69731d6ec0",
       "nav_path": "/live-tvs/9xm",
       "name": "9XM",
@@ -2205,18 +2193,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b59-7a32-a356-afc80c069215",
-      "nav_path": "/live-tvs/news-1-india",
-      "name": "News 1 India",
-      "slug": "news-1-india",
-      "description": "News 1 India brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
       "nav_path": "/live-tvs/peace-tv-bangla-hd",
       "name": "Peace TV Bangla HD",
@@ -2697,6 +2673,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3bfa-71a7-92c2-a1cad28b99e5",
+      "nav_path": "/live-tvs/accu-weather",
+      "name": "Accu Weather",
+      "slug": "accu-weather",
+      "description": "AccuWeather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg",
+      "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3b86-739c-ae1e-0e7c43b5b36d",
       "nav_path": "/live-tvs/dw-news",
       "name": "DW News",
@@ -2740,6 +2728,18 @@
       "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b59-7a32-a356-afc80c069215",
+      "nav_path": "/live-tvs/news-1-india",
+      "name": "News 1 India",
+      "slug": "news-1-india",
+      "description": "News 1 India brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
