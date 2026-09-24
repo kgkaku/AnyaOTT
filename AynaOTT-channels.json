@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "23-09-2026 at 09:02:37 PM",
+    "generated_on": "24-09-2026 at 03:02:36 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -328,18 +328,6 @@
       "description": "TSN 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",
       "stream_url": "https://tvsen7.aynascope.net/tsn2/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b7d-74a7-8be1-7bd2335ecb31",
-      "nav_path": "/live-tvs/bbc-news",
-      "name": "BBC News",
-      "slug": "bbc-news",
-      "description": "BBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg",
-      "stream_url": "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2673,6 +2661,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3b7d-74a7-8be1-7bd2335ecb31",
+      "nav_path": "/live-tvs/bbc-news",
+      "name": "BBC News",
+      "slug": "bbc-news",
+      "description": "BBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg",
+      "stream_url": "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bfa-71a7-92c2-a1cad28b99e5",
       "nav_path": "/live-tvs/accu-weather",
       "name": "Accu Weather",
@@ -2709,18 +2709,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-395b-7132-9cc9-b3571e766644",
       "nav_path": "/live-tvs/etv",
       "name": "ETV",
@@ -2752,6 +2740,18 @@
       "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
