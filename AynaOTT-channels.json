@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "25-09-2026 at 03:19:48 AM",
+    "generated_on": "25-09-2026 at 11:05:08 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1024,18 +1024,6 @@
       "description": "COMEDY CENTRAL brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a95e43bd19729e1e62e5b7edccf35938_playmist_food_network_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bae-7f5e-a48a-e01313b0913f",
-      "nav_path": "/live-tvs/discovery-turbo",
-      "name": "Discovery Turbo",
-      "slug": "discovery-turbo",
-      "description": "Discovery Turbo  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2728,6 +2716,18 @@
       "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bae-7f5e-a48a-e01313b0913f",
+      "nav_path": "/live-tvs/discovery-turbo",
+      "name": "Discovery Turbo",
+      "slug": "discovery-turbo",
+      "description": "Discovery Turbo  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
