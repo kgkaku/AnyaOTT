@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "26-09-2026 at 03:43:13 PM",
+    "generated_on": "26-09-2026 at 08:37:29 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -76,18 +76,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg",
       "stream_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-eb97-7633-b4b2-682cef878a7e",
-      "nav_path": "/live-tvs/talk-sport",
-      "name": "Talk Sport",
-      "slug": "talk-sport",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,6 +2752,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-eb97-7633-b4b2-682cef878a7e",
+      "nav_path": "/live-tvs/talk-sport",
+      "name": "Talk Sport",
+      "slug": "talk-sport",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
