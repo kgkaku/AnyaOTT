@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "27-09-2026 at 03:32:41 AM",
+    "generated_on": "27-09-2026 at 11:21:33 AM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1497,18 +1497,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3be0-7c5b-ad73-e7b18ab18245",
-      "nav_path": "/live-tvs/travel-channel",
-      "name": "Travel Channel",
-      "slug": "travel-channel",
-      "description": "Travel Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39fd-7973-b24f-0a07344fa15f",
       "nav_path": "/live-tvs/bahrain-sports-1",
       "name": "Bahrain Sports 1",
@@ -2764,6 +2752,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg",
       "stream_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3be0-7c5b-ad73-e7b18ab18245",
+      "nav_path": "/live-tvs/travel-channel",
+      "name": "Travel Channel",
+      "slug": "travel-channel",
+      "description": "Travel Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
