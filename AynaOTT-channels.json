@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-09-2026 at 04:06:17 AM",
+    "generated_on": "29-09-2026 at 12:05:06 PM",
     "total_channels": 238,
     "active_channels": 230,
     "inactive_channels": 8
@@ -1719,7 +1719,7 @@
       "slug": "ptv-sports",
       "description": "PTV Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
-      "stream_url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8",
+      "stream_url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2727,7 +2727,7 @@
       "slug": "t-sports-hd",
       "description": "T Sports HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+      "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
