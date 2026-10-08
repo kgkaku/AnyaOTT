@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "07-10-2026 at 10:39:24 PM",
+    "generated_on": "08-10-2026 at 04:23:17 AM",
     "total_channels": 239,
     "active_channels": 231,
     "inactive_channels": 8
@@ -328,18 +328,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
       "stream_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a2e-7cc6-ae53-9a7700f7b056",
-      "nav_path": "/live-tvs/3abn-kids",
-      "name": "3ABN Kids",
-      "slug": "3abn-kids",
-      "description": "3ABN Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg",
-      "stream_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2505,18 +2493,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b94-797d-aeee-9faee1bc9b40",
-      "nav_path": "/live-tvs/fox-news",
-      "name": "Fox News",
-      "slug": "fox-news",
-      "description": "Fox News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b82-7f2d-a547-3c57eaa3dc10",
       "nav_path": "/live-tvs/aljazeera-news",
       "name": "Aljazeera News",
@@ -2776,6 +2752,30 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-06/images_6b43965cf8ff9e05973fde793d1ba4d2_playmist_sportv_logo_png_seeklogo_424355.png",
       "stream_url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a2e-7cc6-ae53-9a7700f7b056",
+      "nav_path": "/live-tvs/3abn-kids",
+      "name": "3ABN Kids",
+      "slug": "3abn-kids",
+      "description": "3ABN Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg",
+      "stream_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b94-797d-aeee-9faee1bc9b40",
+      "nav_path": "/live-tvs/fox-news",
+      "name": "Fox News",
+      "slug": "fox-news",
+      "description": "Fox News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
