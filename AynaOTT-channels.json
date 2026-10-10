@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "10-10-2026 at 04:13:10 AM",
+    "generated_on": "10-10-2026 at 11:52:22 AM",
     "total_channels": 239,
     "active_channels": 231,
     "inactive_channels": 8
@@ -2037,18 +2037,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
-      "nav_path": "/live-tvs/sky-cinema-animation",
-      "name": "SKY CINEMA ANIMATION",
-      "slug": "sky-cinema-animation",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-e30d-7833-8fae-6188b3e7f2d6",
       "nav_path": "/live-tvs/quran",
       "name": "Quran",
@@ -2752,6 +2740,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-06/images_6b43965cf8ff9e05973fde793d1ba4d2_playmist_sportv_logo_png_seeklogo_424355.png",
       "stream_url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
+      "nav_path": "/live-tvs/sky-cinema-animation",
+      "name": "SKY CINEMA ANIMATION",
+      "slug": "sky-cinema-animation",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
