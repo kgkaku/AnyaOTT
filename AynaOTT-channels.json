@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-10-2026 at 02:21:44 PM",
+    "generated_on": "13-10-2026 at 12:06:37 AM",
     "total_channels": 239,
     "active_channels": 231,
     "inactive_channels": 8
@@ -136,18 +136,6 @@
       "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bb7-78ad-b1ab-052ba0529f95",
-      "nav_path": "/live-tvs/hbo",
-      "name": "HBO",
-      "slug": "hbo",
-      "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2776,6 +2764,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-06/images_6b43965cf8ff9e05973fde793d1ba4d2_playmist_sportv_logo_png_seeklogo_424355.png",
       "stream_url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bb7-78ad-b1ab-052ba0529f95",
+      "nav_path": "/live-tvs/hbo",
+      "name": "HBO",
+      "slug": "hbo",
+      "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
