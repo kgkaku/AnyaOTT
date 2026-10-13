@@ -2,9 +2,9 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-10-2026 at 12:06:37 AM",
-    "total_channels": 239,
-    "active_channels": 231,
+    "generated_on": "13-10-2026 at 01:30:53 PM",
+    "total_channels": 240,
+    "active_channels": 232,
     "inactive_channels": 8
   },
   "channels": [
@@ -1689,18 +1689,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39bc-7bd5-b9e5-bab23ceba9ea",
-      "nav_path": "/live-tvs/ptv-sports",
-      "name": "PTV Sports",
-      "slug": "ptv-sports",
-      "description": "PTV Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-de50-7c93-80a8-959a6dfa7f9c",
       "nav_path": "/live-tvs/sharjah-sports-tv",
       "name": "Sharjah Sports TV",
@@ -1768,18 +1756,6 @@
       "description": "India Today brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c7e1c6e2ec548dee61a1a754955b76e1_playmist_india_today400x400.jpg",
       "stream_url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2643,7 +2619,7 @@
       "slug": "t-sports-hd",
       "description": "T Sports HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
+      "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2776,6 +2752,42 @@
       "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39bc-7bd5-b9e5-bab23ceba9ea",
+      "nav_path": "/live-tvs/ptv-sports",
+      "name": "PTV Sports",
+      "slug": "ptv-sports",
+      "description": "PTV Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
+      "nav_path": "/live-tvs/willow-sports-2",
+      "name": "Willow Sports 2",
+      "slug": "willow-sports-2",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
