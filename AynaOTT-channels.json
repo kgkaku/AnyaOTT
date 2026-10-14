@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-10-2026 at 03:26:17 AM",
+    "generated_on": "14-10-2026 at 11:08:02 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -28,6 +28,18 @@
       "description": "",
       "logo": "https://s3.aynaott.com/storage/d5f888d8aaa7d20304f02de8116e8b02",
       "stream_url": null,
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
+      "nav_path": "/live-tvs/bein-sports",
+      "name": "beIN SPORTS",
+      "slug": "bein-sports",
+      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
+      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -508,18 +520,6 @@
       "description": "Revolt brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_9979536baae6e22d6ab814dcbea12453_playmist_revolt_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/revolt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
-      "nav_path": "/live-tvs/bein-sports",
-      "name": "beIN SPORTS",
-      "slug": "bein-sports",
-      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
-      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
