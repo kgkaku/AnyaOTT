@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "18-10-2026 at 03:20:40 PM",
+    "generated_on": "18-10-2026 at 08:03:43 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -165,6 +165,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
+      "nav_path": "/live-tvs/amc",
+      "name": "Amc",
+      "slug": "amc",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
       "nav_path": "/live-tvs/zoom-tv",
       "name": "Zoom TV",
@@ -244,18 +256,6 @@
       "description": "Goldmines Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
-      "nav_path": "/live-tvs/amc",
-      "name": "Amc",
-      "slug": "amc",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
