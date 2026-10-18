@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "18-10-2026 at 10:21:01 AM",
+    "generated_on": "18-10-2026 at 03:20:40 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -81,18 +81,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-e2e4-7850-80df-3f494edb3f78",
-      "nav_path": "/live-tvs/taqbeer",
-      "name": "TAQBEER",
-      "slug": "taqbeer",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-db31-7fd1-a7f9-ea6a2973e8ad",
       "nav_path": "/live-tvs/bangla-radio",
       "name": "Bangla Radio",
@@ -148,6 +136,30 @@
       "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e2e4-7850-80df-3f494edb3f78",
+      "nav_path": "/live-tvs/taqbeer",
+      "name": "TAQBEER",
+      "slug": "taqbeer",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-ef0a-7e72-86c1-af820f1f22e7",
+      "nav_path": "/live-tvs/atn-bangla",
+      "name": "ATN Bangla",
+      "slug": "atn-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4ff2f8e87d71747b70ab273686c9df9a_playmist_atn_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -244,18 +256,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-ef0a-7e72-86c1-af820f1f22e7",
-      "nav_path": "/live-tvs/atn-bangla",
-      "name": "ATN Bangla",
-      "slug": "atn-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4ff2f8e87d71747b70ab273686c9df9a_playmist_atn_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
