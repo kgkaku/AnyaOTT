@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "18-10-2026 at 08:03:43 PM",
+    "generated_on": "19-10-2026 at 03:08:54 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -172,6 +172,30 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3ba2-744b-8df9-2fbba4e15303",
+      "nav_path": "/live-tvs/fox-business",
+      "name": "Fox business",
+      "slug": "fox-business",
+      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39ab-7332-bcd6-ef5ce3093acb",
+      "nav_path": "/live-tvs/news-time-bangla",
+      "name": "News Time Bangla",
+      "slug": "news-time-bangla",
+      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -424,18 +448,6 @@
       "description": "Discovery Science brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b4a182b0d66620e67de189fa25763c3e_playmist_discovery_science400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3ba2-744b-8df9-2fbba4e15303",
-      "nav_path": "/live-tvs/fox-business",
-      "name": "Fox business",
-      "slug": "fox-business",
-      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1300,18 +1312,6 @@
       "description": "Mohona TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39ab-7332-bcd6-ef5ce3093acb",
-      "nav_path": "/live-tvs/news-time-bangla",
-      "name": "News Time Bangla",
-      "slug": "news-time-bangla",
-      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
