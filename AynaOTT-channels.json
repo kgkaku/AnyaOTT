@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "20-10-2026 at 10:54:04 AM",
+    "generated_on": "20-10-2026 at 04:18:51 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -208,6 +208,18 @@
       "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
       "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2764,18 +2776,6 @@
       "description": "PTV Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
