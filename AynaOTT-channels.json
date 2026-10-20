@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "20-10-2026 at 04:18:51 PM",
+    "generated_on": "20-10-2026 at 09:13:05 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -208,6 +208,30 @@
       "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
       "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-dea3-7243-b8d8-f530f119cd09",
+      "nav_path": "/live-tvs/bahrain-sports-2",
+      "name": "Bahrain Sports 2",
+      "slug": "bahrain-sports-2",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/BahrainSports2/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39ff-7db1-94c6-e17acf6a6da4",
+      "nav_path": "/live-tvs/oman-sports-tv-hd",
+      "name": "Oman Sports TV HD",
+      "slug": "oman-sports-tv-hd",
+      "description": "Oman Sports TV HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg",
+      "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -657,18 +681,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39ff-7db1-94c6-e17acf6a6da4",
-      "nav_path": "/live-tvs/oman-sports-tv-hd",
-      "name": "Oman Sports TV HD",
-      "slug": "oman-sports-tv-hd",
-      "description": "Oman Sports TV HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg",
-      "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a53-740f-b92b-aeebb36ebcff",
       "nav_path": "/live-tvs/b4u-music",
       "name": "B4u Music",
@@ -772,18 +784,6 @@
       "description": "Bangla TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-dea3-7243-b8d8-f530f119cd09",
-      "nav_path": "/live-tvs/bahrain-sports-2",
-      "name": "Bahrain Sports 2",
-      "slug": "bahrain-sports-2",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/BahrainSports2/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
