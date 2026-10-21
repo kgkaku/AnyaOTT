@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "20-10-2026 at 09:13:05 PM",
+    "generated_on": "21-10-2026 at 03:13:12 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -244,6 +244,18 @@
       "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+      "nav_path": "/live-tvs/tnt-sport-1",
+      "name": "TNT Sport 1",
+      "slug": "tnt-sport-1",
+      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1156,18 +1168,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg",
       "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
-      "nav_path": "/live-tvs/tnt-sport-1",
-      "name": "TNT Sport 1",
-      "slug": "tnt-sport-1",
-      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
