@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "22-10-2026 at 04:35:39 PM",
+    "generated_on": "22-10-2026 at 09:10:26 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -256,6 +256,18 @@
       "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bc1-763c-b24e-c328f7336861",
+      "nav_path": "/live-tvs/history-tv",
+      "name": "HISTORY TV",
+      "slug": "history-tv",
+      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1564,18 +1576,6 @@
       "description": "Fox Sports 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://s3.aynaott.com/storage/75d182d517bbae0af248c5ee1a67f4d4",
       "stream_url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bc1-763c-b24e-c328f7336861",
-      "nav_path": "/live-tvs/history-tv",
-      "name": "HISTORY TV",
-      "slug": "history-tv",
-      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
