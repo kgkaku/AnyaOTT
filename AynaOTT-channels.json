@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "22-10-2026 at 03:11:42 AM",
+    "generated_on": "22-10-2026 at 11:07:19 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -237,18 +237,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
-      "nav_path": "/live-tvs/tnt-sport-1",
-      "name": "TNT Sport 1",
-      "slug": "tnt-sport-1",
-      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
       "nav_path": "/live-tvs/amc",
       "name": "Amc",
@@ -256,6 +244,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+      "nav_path": "/live-tvs/tnt-sport-1",
+      "name": "TNT Sport 1",
+      "slug": "tnt-sport-1",
+      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
