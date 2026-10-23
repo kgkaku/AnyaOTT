@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "22-10-2026 at 09:10:26 PM",
+    "generated_on": "23-10-2026 at 03:17:15 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -237,18 +237,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
-      "nav_path": "/live-tvs/amc",
-      "name": "Amc",
-      "slug": "amc",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
       "nav_path": "/live-tvs/tnt-sport-1",
       "name": "TNT Sport 1",
@@ -273,6 +261,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
+      "nav_path": "/live-tvs/amc",
+      "name": "Amc",
+      "slug": "amc",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
       "nav_path": "/live-tvs/willow-tv",
       "name": "Willow TV",
@@ -280,6 +280,18 @@
       "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c15-72c1-925e-6d94dd1e987b",
+      "nav_path": "/live-tvs/eman-channel",
+      "name": "Eman Channel",
+      "slug": "eman-channel",
+      "description": "Eman Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2b834d3ec5f27714e6bee18647528e0a_playmist_eman_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/WHy6ffXz/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -580,18 +592,6 @@
       "description": "World War TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ac6813356117e23244894d632de90fe9_playmist_world_war_tv.jpg",
       "stream_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3c15-72c1-925e-6d94dd1e987b",
-      "nav_path": "/live-tvs/eman-channel",
-      "name": "Eman Channel",
-      "slug": "eman-channel",
-      "description": "Eman Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2b834d3ec5f27714e6bee18647528e0a_playmist_eman_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/WHy6ffXz/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
