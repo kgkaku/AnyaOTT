@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "24-10-2026 at 03:20:56 PM",
+    "generated_on": "24-10-2026 at 08:10:30 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -280,6 +280,18 @@
       "description": "Goldmines Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
+      "nav_path": "/live-tvs/afroturk-tv",
+      "name": "Afroturk TV",
+      "slug": "afroturk-tv",
+      "description": "Afroturk TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_19592dbb4ffcc259b63e2508c91dc065_playmist_afroturk_tv_400x400.jpg",
+      "stream_url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1060,18 +1072,6 @@
       "description": "Wion brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_af4d270a6fc7246b2dc185399cce7dbd_playmist_wion_400x400.jpg",
       "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
-      "nav_path": "/live-tvs/afroturk-tv",
-      "name": "Afroturk TV",
-      "slug": "afroturk-tv",
-      "description": "Afroturk TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_19592dbb4ffcc259b63e2508c91dc065_playmist_afroturk_tv_400x400.jpg",
-      "stream_url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
