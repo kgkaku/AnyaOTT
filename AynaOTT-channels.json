@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "25-10-2026 at 03:30:42 PM",
+    "generated_on": "25-10-2026 at 08:21:14 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -303,7 +303,7 @@
       "slug": "tnt-sport-1",
       "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
+      "stream_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
