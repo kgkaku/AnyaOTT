@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "26-10-2026 at 12:13:01 PM",
+    "generated_on": "26-10-2026 at 10:15:57 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -304,6 +304,18 @@
       "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
+      "nav_path": "/live-tvs/bangla-vision",
+      "name": "Bangla Vision",
+      "slug": "bangla-vision",
+      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2584,18 +2596,6 @@
       "description": "News 1 India brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
-      "nav_path": "/live-tvs/bangla-vision",
-      "name": "Bangla Vision",
-      "slug": "bangla-vision",
-      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null

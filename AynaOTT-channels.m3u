@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 26-10-2026 at 12:13:01 PM
+# Generated on: 26-10-2026 at 10:15:57 PM
 # Total Channels: 240 | Active: 232
 
 #EXTINF:-1 tvg-id="019de785-39d4-7fe5-9ad1-34b1e4fb98c9" tvg-name="bein-sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg" group-title="AynaOTT",beIN SPORTS
@@ -117,6 +117,12 @@ https://tvsen6.aynaott.com/amc/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen5.aynaott.com/asdfadsf/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3957-788f-a366-97dc52d1eced" tvg-name="bangla-vision" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg" group-title="AynaOTT",Bangla Vision
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b65-7872-a707-c2324a037cc9" tvg-name="zoom-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg" group-title="AynaOTT",Zoom TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
@@ -1245,12 +1251,6 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3957-788f-a366-97dc52d1eced" tvg-name="bangla-vision" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg" group-title="AynaOTT",Bangla Vision
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bae-7f5e-a48a-e01313b0913f" tvg-name="discovery-turbo" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg" group-title="AynaOTT",Discovery Turbo
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
