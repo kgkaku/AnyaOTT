@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "27-10-2026 at 11:33:45 AM",
+    "generated_on": "27-10-2026 at 05:25:44 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -124,18 +124,6 @@
       "description": "",
       "logo": "https://s3.aynaott.com/storage/31957d5960d3a36d8f9ca4d5a56eee96",
       "stream_url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39a9-777d-a085-fd61ebb8ce7d",
-      "nav_path": "/live-tvs/rplus-gold",
-      "name": "Rplus Gold",
-      "slug": "rplus-gold",
-      "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -316,6 +304,18 @@
       "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39a9-777d-a085-fd61ebb8ce7d",
+      "nav_path": "/live-tvs/rplus-gold",
+      "name": "Rplus Gold",
+      "slug": "rplus-gold",
+      "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
