@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "28-10-2026 at 12:04:27 PM",
+    "generated_on": "28-10-2026 at 10:09:08 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -249,18 +249,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a57-7892-b06f-caf61a17d1cb",
-      "nav_path": "/live-tvs/goldmines-movies",
-      "name": "Goldmines Movies",
-      "slug": "goldmines-movies",
-      "description": "Goldmines Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
       "nav_path": "/live-tvs/afroturk-tv",
       "name": "Afroturk TV",
@@ -285,18 +273,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
-      "nav_path": "/live-tvs/tnt-sport-1",
-      "name": "TNT Sport 1",
-      "slug": "tnt-sport-1",
-      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3957-788f-a366-97dc52d1eced",
       "nav_path": "/live-tvs/bangla-vision",
       "name": "Bangla Vision",
@@ -316,6 +292,42 @@
       "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a57-7892-b06f-caf61a17d1cb",
+      "nav_path": "/live-tvs/goldmines-movies",
+      "name": "Goldmines Movies",
+      "slug": "goldmines-movies",
+      "description": "Goldmines Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+      "nav_path": "/live-tvs/tnt-sport-1",
+      "name": "TNT Sport 1",
+      "slug": "tnt-sport-1",
+      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a4f-778c-990c-ff69731d6ec0",
+      "nav_path": "/live-tvs/9xm",
+      "name": "9XM",
+      "slug": "9xm",
+      "description": "9XM brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1456,18 +1468,6 @@
       "description": "Dhinchaak brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_a7fe328956ad0b1e64e29ca727c1159c_playmist_dhinchaak_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a4f-778c-990c-ff69731d6ec0",
-      "nav_path": "/live-tvs/9xm",
-      "name": "9XM",
-      "slug": "9xm",
-      "description": "9XM brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
