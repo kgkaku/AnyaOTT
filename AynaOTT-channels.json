@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-10-2026 at 04:16:23 AM",
+    "generated_on": "29-10-2026 at 12:15:10 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -213,18 +213,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bc1-763c-b24e-c328f7336861",
-      "nav_path": "/live-tvs/history-tv",
-      "name": "HISTORY TV",
-      "slug": "history-tv",
-      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
       "nav_path": "/live-tvs/willow-tv",
       "name": "Willow TV",
@@ -321,6 +309,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3a4f-778c-990c-ff69731d6ec0",
+      "nav_path": "/live-tvs/9xm",
+      "name": "9XM",
+      "slug": "9xm",
+      "description": "9XM brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bc1-763c-b24e-c328f7336861",
+      "nav_path": "/live-tvs/history-tv",
+      "name": "HISTORY TV",
+      "slug": "history-tv",
+      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
       "nav_path": "/live-tvs/dbc-news",
       "name": "DBC News",
@@ -333,13 +345,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a4f-778c-990c-ff69731d6ec0",
-      "nav_path": "/live-tvs/9xm",
-      "name": "9XM",
-      "slug": "9xm",
-      "description": "9XM brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8",
+      "identifier": "019de785-3bd5-71a5-8724-86b9aae512ae",
+      "nav_path": "/live-tvs/food-network",
+      "name": "Food Network",
+      "slug": "food-network",
+      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -592,18 +604,6 @@
       "description": "Power Turk brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_921be7b2d6ccc058938b643f66c6e3a8_playmist_power_turk_tv_400x400_update.jpg",
       "stream_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bd5-71a5-8724-86b9aae512ae",
-      "nav_path": "/live-tvs/food-network",
-      "name": "Food Network",
-      "slug": "food-network",
-      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
