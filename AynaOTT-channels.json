@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-10-2026 at 12:15:10 PM",
+    "generated_on": "29-10-2026 at 10:24:38 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -333,6 +333,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3bd5-71a5-8724-86b9aae512ae",
+      "nav_path": "/live-tvs/food-network",
+      "name": "Food Network",
+      "slug": "food-network",
+      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
       "nav_path": "/live-tvs/dbc-news",
       "name": "DBC News",
@@ -345,13 +357,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bd5-71a5-8724-86b9aae512ae",
-      "nav_path": "/live-tvs/food-network",
-      "name": "Food Network",
-      "slug": "food-network",
-      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
+      "identifier": "019de785-3bf4-757f-8e66-683777e40ff6",
+      "nav_path": "/live-tvs/cgtn-documentary",
+      "name": "CGTN Documentary",
+      "slug": "cgtn-documentary",
+      "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1288,18 +1300,6 @@
       "description": "Bharat Samachar brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d52623f16135dea6bd76f7bdacd4b886_playmist_bharat_samachar_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bf4-757f-8e66-683777e40ff6",
-      "nav_path": "/live-tvs/cgtn-documentary",
-      "name": "CGTN Documentary",
-      "slug": "cgtn-documentary",
-      "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
