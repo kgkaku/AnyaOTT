@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "30-10-2026 at 12:05:29 PM",
+    "generated_on": "30-10-2026 at 09:55:03 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -225,30 +225,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3c15-72c1-925e-6d94dd1e987b",
-      "nav_path": "/live-tvs/eman-channel",
-      "name": "Eman Channel",
-      "slug": "eman-channel",
-      "description": "Eman Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2b834d3ec5f27714e6bee18647528e0a_playmist_eman_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/WHy6ffXz/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
-      "nav_path": "/live-tvs/afroturk-tv",
-      "name": "Afroturk TV",
-      "slug": "afroturk-tv",
-      "description": "Afroturk TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_19592dbb4ffcc259b63e2508c91dc065_playmist_afroturk_tv_400x400.jpg",
-      "stream_url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019f400c-f681-70a8-a70f-9858e64716be",
       "nav_path": "/live-tvs/amc",
       "name": "Amc",
@@ -364,6 +340,30 @@
       "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3c15-72c1-925e-6d94dd1e987b",
+      "nav_path": "/live-tvs/eman-channel",
+      "name": "Eman Channel",
+      "slug": "eman-channel",
+      "description": "Eman Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2b834d3ec5f27714e6bee18647528e0a_playmist_eman_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/WHy6ffXz/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
+      "nav_path": "/live-tvs/afroturk-tv",
+      "name": "Afroturk TV",
+      "slug": "afroturk-tv",
+      "description": "Afroturk TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_19592dbb4ffcc259b63e2508c91dc065_playmist_afroturk_tv_400x400.jpg",
+      "stream_url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
