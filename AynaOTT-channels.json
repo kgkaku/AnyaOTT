@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "29-10-2026 at 10:24:38 PM",
+    "generated_on": "30-10-2026 at 04:16:20 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -364,6 +364,18 @@
       "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
+      "nav_path": "/live-tvs/bein-sports-1",
+      "name": "Bein Sports 1",
+      "slug": "bein-sports-1",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
+      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1840,18 +1852,6 @@
       "description": "Test description for the test live tv",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
-      "nav_path": "/live-tvs/bein-sports-1",
-      "name": "Bein Sports 1",
-      "slug": "bein-sports-1",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
-      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
