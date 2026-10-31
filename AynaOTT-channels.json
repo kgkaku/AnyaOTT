@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "30-10-2026 at 09:55:03 PM",
+    "generated_on": "31-10-2026 at 03:57:11 AM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -172,18 +172,6 @@
       "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-396c-7f21-9261-2bd1e5230130",
-      "nav_path": "/live-tvs/sa-tv",
-      "name": "SA TV",
-      "slug": "sa-tv",
-      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
-      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -376,6 +364,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
       "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-396c-7f21-9261-2bd1e5230130",
+      "nav_path": "/live-tvs/sa-tv",
+      "name": "SA TV",
+      "slug": "sa-tv",
+      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
+      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
