@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "31-10-2026 at 11:39:27 AM",
+    "generated_on": "31-10-2026 at 04:46:51 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -333,6 +333,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-396c-7f21-9261-2bd1e5230130",
+      "nav_path": "/live-tvs/sa-tv",
+      "name": "SA TV",
+      "slug": "sa-tv",
+      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
+      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3ba4-7280-8f39-3e3a00e1c89b",
       "nav_path": "/live-tvs/afroturk-tv",
       "name": "Afroturk TV",
@@ -345,13 +357,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-396c-7f21-9261-2bd1e5230130",
-      "nav_path": "/live-tvs/sa-tv",
-      "name": "SA TV",
-      "slug": "sa-tv",
-      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
-      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -369,13 +381,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "identifier": "019de785-3ba0-791c-8c0e-49ddadbe2415",
+      "nav_path": "/live-tvs/fox-5",
+      "name": "Fox 5",
+      "slug": "fox-5",
+      "description": "Fox 5  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/fox5/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1912,18 +1924,6 @@
       "description": "Test description for the test live tv",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_68b8c3bbc8b629bbc2c00880b4546d74_playmist_sangeet_bangla400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3ba0-791c-8c0e-49ddadbe2415",
-      "nav_path": "/live-tvs/fox-5",
-      "name": "Fox 5",
-      "slug": "fox-5",
-      "description": "Fox 5  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/fox5/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
