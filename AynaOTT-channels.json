@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "31-10-2026 at 04:46:51 PM",
+    "generated_on": "31-10-2026 at 08:57:00 PM",
     "total_channels": 240,
     "active_channels": 232,
     "inactive_channels": 8
@@ -357,18 +357,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
       "nav_path": "/live-tvs/bein-sports-1",
       "name": "Bein Sports 1",
@@ -388,6 +376,18 @@
       "description": "Fox 5  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/fox5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
