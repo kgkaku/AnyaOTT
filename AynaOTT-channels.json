@@ -2,9 +2,9 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "02-11-2026 at 04:16:41 AM",
-    "total_channels": 240,
-    "active_channels": 232,
+    "generated_on": "02-11-2026 at 02:42:49 PM",
+    "total_channels": 241,
+    "active_channels": 233,
     "inactive_channels": 8
   },
   "channels": [
@@ -28,6 +28,18 @@
       "description": "",
       "logo": "https://s3.aynaott.com/storage/d5f888d8aaa7d20304f02de8116e8b02",
       "stream_url": null,
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-dee3-7460-a2d9-6add12132b2e",
+      "nav_path": "/live-tvs/zee-bangla-sonar",
+      "name": "Zee Bangla Sonar",
+      "slug": "zee-bangla-sonar",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg",
+      "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -201,18 +213,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
-      "nav_path": "/live-tvs/bangla-vision",
-      "name": "Bangla Vision",
-      "slug": "bangla-vision",
-      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39a9-777d-a085-fd61ebb8ce7d",
       "nav_path": "/live-tvs/rplus-gold",
       "name": "Rplus Gold",
@@ -369,6 +369,42 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
+      "nav_path": "/live-tvs/zoom-tv",
+      "name": "Zoom TV",
+      "slug": "zoom-tv",
+      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
+      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3957-788f-a366-97dc52d1eced",
+      "nav_path": "/live-tvs/bangla-vision",
+      "name": "Bangla Vision",
+      "slug": "bangla-vision",
+      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
+      "nav_path": "/live-tvs/bein-sports",
+      "name": "beIN SPORTS",
+      "slug": "bein-sports",
+      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
+      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
       "nav_path": "/live-tvs/willow-tv",
       "name": "Willow TV",
@@ -388,30 +424,6 @@
       "description": "Mohona TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
-      "nav_path": "/live-tvs/zoom-tv",
-      "name": "Zoom TV",
-      "slug": "zoom-tv",
-      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
-      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
-      "nav_path": "/live-tvs/bein-sports",
-      "name": "beIN SPORTS",
-      "slug": "bein-sports",
-      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
-      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
