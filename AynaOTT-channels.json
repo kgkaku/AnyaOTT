@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "02-11-2026 at 02:42:49 PM",
+    "generated_on": "03-11-2026 at 12:28:30 AM",
     "total_channels": 241,
     "active_channels": 233,
     "inactive_channels": 8
@@ -381,6 +381,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3957-788f-a366-97dc52d1eced",
       "nav_path": "/live-tvs/bangla-vision",
       "name": "Bangla Vision",
@@ -393,6 +405,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
+      "nav_path": "/live-tvs/fx-tv",
+      "name": "FX TV",
+      "slug": "fx-tv",
+      "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
       "nav_path": "/live-tvs/bein-sports",
       "name": "beIN SPORTS",
@@ -400,18 +424,6 @@
       "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
       "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1108,18 +1120,6 @@
       "description": "\nEPIX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_322ff67121137078dae63e65d4c72530_playmist_epix_tv400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
-      "nav_path": "/live-tvs/fx-tv",
-      "name": "FX TV",
-      "slug": "fx-tv",
-      "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
