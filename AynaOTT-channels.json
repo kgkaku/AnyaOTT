@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "04-11-2026 at 04:45:12 AM",
+    "generated_on": "04-11-2026 at 01:44:46 PM",
     "total_channels": 241,
     "active_channels": 233,
     "inactive_channels": 8
@@ -405,18 +405,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-397a-7df0-b523-b00c861be256",
-      "nav_path": "/live-tvs/mohona-tv",
-      "name": "Mohona TV",
-      "slug": "mohona-tv",
-      "description": "Mohona TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
       "nav_path": "/live-tvs/fx-tv",
       "name": "FX TV",
@@ -424,6 +412,18 @@
       "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-397a-7df0-b523-b00c861be256",
+      "nav_path": "/live-tvs/mohona-tv",
+      "name": "Mohona TV",
+      "slug": "mohona-tv",
+      "description": "Mohona TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
