@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "04-11-2026 at 01:44:46 PM",
+    "generated_on": "04-11-2026 at 11:10:32 PM",
     "total_channels": 241,
     "active_channels": 233,
     "inactive_channels": 8
@@ -417,6 +417,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "nav_path": "/live-tvs/willow-tv",
+      "name": "Willow TV",
+      "slug": "willow-tv",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-397a-7df0-b523-b00c861be256",
       "nav_path": "/live-tvs/mohona-tv",
       "name": "Mohona TV",
@@ -429,13 +441,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "nav_path": "/live-tvs/willow-tv",
-      "name": "Willow TV",
-      "slug": "willow-tv",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "identifier": "019de785-3c1b-75c8-a4a5-91373ec4f80a",
+      "nav_path": "/live-tvs/time-tv-usa",
+      "name": "TIME TV USA",
+      "slug": "time-tv-usa",
+      "description": "TIME TV USA brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c05517a566e36853dc54d325a24921ad_playmist_time_tv_usa400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/timetv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1468,18 +1480,6 @@
       "description": "Hi Dost brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_b90345375a329b519144db840900fbae_playmist_hidost_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/u2VhUFwF/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3c1b-75c8-a4a5-91373ec4f80a",
-      "nav_path": "/live-tvs/time-tv-usa",
-      "name": "TIME TV USA",
-      "slug": "time-tv-usa",
-      "description": "TIME TV USA brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c05517a566e36853dc54d325a24921ad_playmist_time_tv_usa400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/timetv/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
