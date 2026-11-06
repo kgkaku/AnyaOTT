@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "06-11-2026 at 01:42:26 PM",
+    "generated_on": "06-11-2026 at 10:41:17 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -429,6 +429,18 @@
       "ends_at": null
     },
     {
+      "identifier": "01a1aa1f-9605-7019-975d-355265a9aa2d",
+      "nav_path": "/live-tvs/hum-tv",
+      "name": "Hum TV",
+      "slug": "hum-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg",
+      "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
       "nav_path": "/live-tvs/fx-tv",
       "name": "FX TV",
@@ -448,18 +460,6 @@
       "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
       "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "01a1aa1f-9605-7019-975d-355265a9aa2d",
-      "nav_path": "/live-tvs/hum-tv",
-      "name": "Hum TV",
-      "slug": "hum-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg",
-      "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
