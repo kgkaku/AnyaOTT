@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "07-11-2026 at 12:24:32 PM",
+    "generated_on": "07-11-2026 at 09:24:55 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -429,18 +429,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
-      "nav_path": "/live-tvs/zoom-tv",
-      "name": "Zoom TV",
-      "slug": "zoom-tv",
-      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
-      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
       "nav_path": "/live-tvs/fx-tv",
       "name": "FX TV",
@@ -448,30 +436,6 @@
       "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "01a1aa1f-9605-7019-975d-355265a9aa2d",
-      "nav_path": "/live-tvs/hum-tv",
-      "name": "Hum TV",
-      "slug": "hum-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg",
-      "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
-      "nav_path": "/live-tvs/ntv-europe",
-      "name": "NTV Europe",
-      "slug": "ntv-europe",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
-      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -489,6 +453,18 @@
       "ends_at": null
     },
     {
+      "identifier": "01a1aa1f-9605-7019-975d-355265a9aa2d",
+      "nav_path": "/live-tvs/hum-tv",
+      "name": "Hum TV",
+      "slug": "hum-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg",
+      "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bd1-7502-8aaf-aca55d0c6489",
       "nav_path": "/live-tvs/tlc-hd",
       "name": "TLC HD",
@@ -496,6 +472,18 @@
       "description": "TLC HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
+      "nav_path": "/live-tvs/ntv-europe",
+      "name": "NTV Europe",
+      "slug": "ntv-europe",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
+      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -520,6 +508,18 @@
       "description": "Shemaroo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_73a0972a8bf15d3ec6bc07601297c4db_playmist_shemaroo_umang_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
+      "nav_path": "/live-tvs/zoom-tv",
+      "name": "Zoom TV",
+      "slug": "zoom-tv",
+      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
+      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
