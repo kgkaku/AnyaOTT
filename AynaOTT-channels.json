@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "07-11-2026 at 09:24:55 PM",
+    "generated_on": "08-11-2026 at 04:19:09 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -429,6 +429,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
+      "nav_path": "/live-tvs/ntv-europe",
+      "name": "NTV Europe",
+      "slug": "ntv-europe",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
+      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
       "nav_path": "/live-tvs/fx-tv",
       "name": "FX TV",
@@ -472,18 +484,6 @@
       "description": "TLC HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
-      "nav_path": "/live-tvs/ntv-europe",
-      "name": "NTV Europe",
-      "slug": "ntv-europe",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
-      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
