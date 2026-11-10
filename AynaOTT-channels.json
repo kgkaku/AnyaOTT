@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "09-11-2026 at 03:06:04 PM",
+    "generated_on": "10-11-2026 at 01:09:02 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -453,6 +453,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-39ef-748a-9af9-aa3d3f488760",
+      "nav_path": "/live-tvs/nfl-network",
+      "name": "NFL Network",
+      "slug": "nfl-network",
+      "description": "\nNFL Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bd1-7502-8aaf-aca55d0c6489",
       "nav_path": "/live-tvs/tlc-hd",
       "name": "TLC HD",
@@ -465,13 +477,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39ef-748a-9af9-aa3d3f488760",
-      "nav_path": "/live-tvs/nfl-network",
-      "name": "NFL Network",
-      "slug": "nfl-network",
-      "description": "\nNFL Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+      "identifier": "019de785-3c17-7ee9-9f97-7bc4e8bd84e7",
+      "nav_path": "/live-tvs/madani-tv",
+      "name": "MADANI TV",
+      "slug": "madani-tv",
+      "description": "MADANI TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1336,18 +1348,6 @@
       "description": "The Q brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2f34bf2892467c32fab2ed18bc782c53_playmist_theq_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3c17-7ee9-9f97-7bc4e8bd84e7",
-      "nav_path": "/live-tvs/madani-tv",
-      "name": "MADANI TV",
-      "slug": "madani-tv",
-      "description": "MADANI TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
