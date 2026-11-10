@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "10-11-2026 at 02:17:00 PM",
+    "generated_on": "10-11-2026 at 10:48:22 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -549,18 +549,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39f3-7ee4-82c5-582a3f749674",
-      "nav_path": "/live-tvs/dd-sports",
-      "name": "DD Sports",
-      "slug": "dd-sports",
-      "description": "DD Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg",
-      "stream_url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39b1-7763-ad62-b9087039241f",
       "nav_path": "/live-tvs/enter-10-bangla",
       "name": "Enter 10 Bangla",
@@ -568,6 +556,18 @@
       "description": "Enter 10 Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg",
       "stream_url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39f3-7ee4-82c5-582a3f749674",
+      "nav_path": "/live-tvs/dd-sports",
+      "name": "DD Sports",
+      "slug": "dd-sports",
+      "description": "DD Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg",
+      "stream_url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
