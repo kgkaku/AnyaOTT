@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-11-2026 at 06:58:50 AM",
+    "generated_on": "12-11-2026 at 07:30:30 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -273,18 +273,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
-      "nav_path": "/live-tvs/dbc-news",
-      "name": "DBC News",
-      "slug": "dbc-news",
-      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bf4-757f-8e66-683777e40ff6",
       "nav_path": "/live-tvs/cgtn-documentary",
       "name": "CGTN Documentary",
@@ -340,18 +328,6 @@
       "description": "Fox 5  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/fox5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
-      "nav_path": "/live-tvs/bein-sports",
-      "name": "beIN SPORTS",
-      "slug": "bein-sports",
-      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
-      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -597,18 +573,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39e2-7b89-b765-55ec31696b75",
       "nav_path": "/live-tvs/tsn-2",
       "name": "TSN 2",
@@ -621,6 +585,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3bb1-775b-9c32-aad40ee46faf",
+      "nav_path": "/live-tvs/discovery-hd",
+      "name": "Discovery HD",
+      "slug": "discovery-hd",
+      "description": "Discovery HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
+      "nav_path": "/live-tvs/dbc-news",
+      "name": "DBC News",
+      "slug": "dbc-news",
+      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019efa45-e724-7ca0-90fd-8a837b01220c",
       "nav_path": "/live-tvs/goldmines-bollywood",
       "name": "Goldmines Bollywood",
@@ -628,6 +616,30 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
       "stream_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
+      "nav_path": "/live-tvs/bein-sports",
+      "name": "beIN SPORTS",
+      "slug": "bein-sports",
+      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
+      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1000,18 +1012,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
       "stream_url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bb1-775b-9c32-aad40ee46faf",
-      "nav_path": "/live-tvs/discovery-hd",
-      "name": "Discovery HD",
-      "slug": "discovery-hd",
-      "description": "Discovery HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
