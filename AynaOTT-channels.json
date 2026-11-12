@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-11-2026 at 12:00:19 AM",
+    "generated_on": "12-11-2026 at 06:58:50 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -477,18 +477,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
-      "nav_path": "/live-tvs/zoom-tv",
-      "name": "Zoom TV",
-      "slug": "zoom-tv",
-      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
-      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-39ef-748a-9af9-aa3d3f488760",
       "nav_path": "/live-tvs/nfl-network",
       "name": "NFL Network",
@@ -580,6 +568,18 @@
       "description": "DD Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg",
       "stream_url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
+      "nav_path": "/live-tvs/zoom-tv",
+      "name": "Zoom TV",
+      "slug": "zoom-tv",
+      "description": "Zoom TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
+      "stream_url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
