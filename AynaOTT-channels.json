@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "12-11-2026 at 07:30:30 PM",
+    "generated_on": "13-11-2026 at 04:57:22 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -597,18 +597,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
-      "nav_path": "/live-tvs/dbc-news",
-      "name": "DBC News",
-      "slug": "dbc-news",
-      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019efa45-e724-7ca0-90fd-8a837b01220c",
       "nav_path": "/live-tvs/goldmines-bollywood",
       "name": "Goldmines Bollywood",
@@ -633,13 +621,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
+      "nav_path": "/live-tvs/dbc-news",
+      "name": "DBC News",
+      "slug": "dbc-news",
+      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -669,6 +657,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3b67-7f41-bb8e-f5ad36bb3bcb",
       "nav_path": "/live-tvs/taaza-tv",
       "name": "Taaza TV",
@@ -676,6 +676,18 @@
       "description": "Taaza TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_95fe091155ffd0cd20eedb9db083e61e_playmist_taaza_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bb7-78ad-b1ab-052ba0529f95",
+      "nav_path": "/live-tvs/hbo",
+      "name": "HBO",
+      "slug": "hbo",
+      "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2776,18 +2788,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-06/images_6b43965cf8ff9e05973fde793d1ba4d2_playmist_sportv_logo_png_seeklogo_424355.png",
       "stream_url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3bb7-78ad-b1ab-052ba0529f95",
-      "nav_path": "/live-tvs/hbo",
-      "name": "HBO",
-      "slug": "hbo",
-      "description": "HBO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
