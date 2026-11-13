@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 13-11-2026 at 04:57:22 AM
+# Generated on: 13-11-2026 at 01:53:15 PM
 # Total Channels: 242 | Active: 234
 
 #EXTINF:-1 tvg-id="019efa45-dee3-7460-a2d9-6add12132b2e" tvg-name="zee-bangla-sonar" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg" group-title="AynaOTT",Zee Bangla Sonar
@@ -292,12 +292,6 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 
-#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="colors-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg" group-title="AynaOTT",Colors Bangla
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3b67-7f41-bb8e-f5ad36bb3bcb" tvg-name="taaza-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_95fe091155ffd0cd20eedb9db083e61e_playmist_taaza_tv_400x400.jpg" group-title="AynaOTT",Taaza TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -339,6 +333,12 @@ https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+
+#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="colors-bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg" group-title="AynaOTT",Colors Bangla
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3be8-7ff3-b1fe-7d1221d39d34" tvg-name="power-turk" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_921be7b2d6ccc058938b643f66c6e3a8_playmist_power_turk_tv_400x400_update.jpg" group-title="AynaOTT",Power Turk
 #EXTVLCOPT:http-origin=https://web.aynaott.com/

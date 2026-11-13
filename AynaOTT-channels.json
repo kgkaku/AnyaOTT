@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-11-2026 at 04:57:22 AM",
+    "generated_on": "13-11-2026 at 01:53:15 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -657,18 +657,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b67-7f41-bb8e-f5ad36bb3bcb",
       "nav_path": "/live-tvs/taaza-tv",
       "name": "Taaza TV",
@@ -748,6 +736,18 @@
       "description": "Discovery Science brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b4a182b0d66620e67de189fa25763c3e_playmist_discovery_science400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
