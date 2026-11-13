@@ -1,7 +1,7 @@
 #EXTM3U
 # AynaOTT Live Channels Playlist
 # created by @kgkaku
-# Generated on: 13-11-2026 at 01:53:15 PM
+# Generated on: 13-11-2026 at 11:13:15 PM
 # Total Channels: 242 | Active: 234
 
 #EXTINF:-1 tvg-id="019efa45-dee3-7460-a2d9-6add12132b2e" tvg-name="zee-bangla-sonar" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg" group-title="AynaOTT",Zee Bangla Sonar
@@ -202,12 +202,6 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="ananda-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg" group-title="AynaOTT",Ananda TV
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3c17-7ee9-9f97-7bc4e8bd84e7" tvg-name="madani-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg" group-title="AynaOTT",MADANI TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -268,12 +262,6 @@ https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-39d4-7fe5-9ad1-34b1e4fb98c9" tvg-name="bein-sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg" group-title="AynaOTT",beIN SPORTS
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3968-7782-b69b-7c6151ae6fe1" tvg-name="dbc-news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg" group-title="AynaOTT",DBC News
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -322,6 +310,12 @@ https://tvsen7.aynaott.com/lifetime/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
+#EXTINF:-1 tvg-id="019de785-393f-770a-ab0d-525a2d2a00dc" tvg-name="somoy-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg" group-title="AynaOTT",Somoy TV
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen7.aynaott.com/Sports4/index.m3u8
+
 #EXTINF:-1 tvg-id="019de785-3bbd-7236-a103-7ffd2858e328" tvg-name="hgtv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg" group-title="AynaOTT",HGTV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
@@ -346,11 +340,23 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="019de785-39d4-7fe5-9ad1-34b1e4fb98c9" tvg-name="bein-sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg" group-title="AynaOTT",beIN SPORTS
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 #EXTINF:-1 tvg-id="019de785-3bc9-734a-a037-6bfc2379c3fc" tvg-name="pix-11" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_df5bc6edb722446e3223f42772b0919e_playmist_pix11_400x400.jpg" group-title="AynaOTT",Pix 11
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="ananda-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg" group-title="AynaOTT",Ananda TV
+#EXTVLCOPT:http-origin=https://web.aynaott.com/
+#EXTVLCOPT:http-referrer=https://web.aynaott.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bec-7c6d-aa44-9cee1291ec86" tvg-name="axs" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg" group-title="AynaOTT",AXS
 #EXTVLCOPT:http-origin=https://web.aynaott.com/
@@ -1293,12 +1299,6 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTVLCOPT:http-referrer=https://web.aynaott.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-393f-770a-ab0d-525a2d2a00dc" tvg-name="somoy-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg" group-title="AynaOTT",Somoy TV
-#EXTVLCOPT:http-origin=https://web.aynaott.com/
-#EXTVLCOPT:http-referrer=https://web.aynaott.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://tvsen7.aynaott.com/Sports4/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-396a-7e3b-ae50-1d20c8ce2323" tvg-name="independent-tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d7df8a2523be6a1fc0c54ddafc046dc2_playmist_independent_400x400.jpg" group-title="AynaOTT",Independent TV
 #EXTVLCOPT:http-origin=https://web.aynaott.com/

@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-11-2026 at 01:53:15 PM",
+    "generated_on": "13-11-2026 at 11:13:15 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -477,18 +477,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3984-7c6c-b734-30d6bb22b3b8",
-      "nav_path": "/live-tvs/ananda-tv",
-      "name": "Ananda TV",
-      "slug": "ananda-tv",
-      "description": "ananda-tv brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c17-7ee9-9f97-7bc4e8bd84e7",
       "nav_path": "/live-tvs/madani-tv",
       "name": "MADANI TV",
@@ -609,18 +597,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
-      "nav_path": "/live-tvs/bein-sports",
-      "name": "beIN SPORTS",
-      "slug": "bein-sports",
-      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
-      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
       "nav_path": "/live-tvs/dbc-news",
       "name": "DBC News",
@@ -717,6 +693,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-393f-770a-ab0d-525a2d2a00dc",
+      "nav_path": "/live-tvs/somoy-tv",
+      "name": "Somoy TV",
+      "slug": "somoy-tv",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bbd-7236-a103-7ffd2858e328",
       "nav_path": "/live-tvs/hgtv",
       "name": "HGTV",
@@ -765,6 +753,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
+      "nav_path": "/live-tvs/bein-sports",
+      "name": "beIN SPORTS",
+      "slug": "bein-sports",
+      "description": "Bein Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg",
+      "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bc9-734a-a037-6bfc2379c3fc",
       "nav_path": "/live-tvs/pix-11",
       "name": "Pix 11",
@@ -772,6 +772,18 @@
       "description": "pix 11 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_df5bc6edb722446e3223f42772b0919e_playmist_pix11_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/GPHeknR5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3984-7c6c-b734-30d6bb22b3b8",
+      "nav_path": "/live-tvs/ananda-tv",
+      "name": "Ananda TV",
+      "slug": "ananda-tv",
+      "description": "ananda-tv brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -2680,18 +2692,6 @@
       "description": "T Sports HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
       "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-393f-770a-ab0d-525a2d2a00dc",
-      "nav_path": "/live-tvs/somoy-tv",
-      "name": "Somoy TV",
-      "slug": "somoy-tv",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
