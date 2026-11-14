@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "13-11-2026 at 11:13:15 PM",
+    "generated_on": "14-11-2026 at 04:50:27 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -597,18 +597,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
-      "nav_path": "/live-tvs/dbc-news",
-      "name": "DBC News",
-      "slug": "dbc-news",
-      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a32-7736-87ef-a8588bdc159f",
       "nav_path": "/live-tvs/kids-tv",
       "name": "Kids TV",
@@ -669,18 +657,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b96-7e36-93b7-96e323b3f0a0",
-      "nav_path": "/live-tvs/life-time",
-      "name": "LIFE TIME",
-      "slug": "life-time",
-      "description": "LIFE TIME brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b9e-7f03-a443-6f49d828ee88",
       "nav_path": "/live-tvs/wild-tv",
       "name": "Wild TV",
@@ -693,18 +669,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-393f-770a-ab0d-525a2d2a00dc",
-      "nav_path": "/live-tvs/somoy-tv",
-      "name": "Somoy TV",
-      "slug": "somoy-tv",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3bbd-7236-a103-7ffd2858e328",
       "nav_path": "/live-tvs/hgtv",
       "name": "HGTV",
@@ -712,6 +676,18 @@
       "description": "HGTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
+      "nav_path": "/live-tvs/dbc-news",
+      "name": "DBC News",
+      "slug": "dbc-news",
+      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -801,6 +777,18 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-393f-770a-ab0d-525a2d2a00dc",
+      "nav_path": "/live-tvs/somoy-tv",
+      "name": "Somoy TV",
+      "slug": "somoy-tv",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-3bf0-7393-9a87-366242140422",
       "nav_path": "/live-tvs/world-war-tv",
       "name": "World War TV",
@@ -820,6 +808,18 @@
       "description": "Revolt brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_9979536baae6e22d6ab814dcbea12453_playmist_revolt_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/revolt/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b96-7e36-93b7-96e323b3f0a0",
+      "nav_path": "/live-tvs/life-time",
+      "name": "LIFE TIME",
+      "slug": "life-time",
+      "description": "LIFE TIME brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
