@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "14-11-2026 at 09:56:53 PM",
+    "generated_on": "15-11-2026 at 04:42:54 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -292,18 +292,6 @@
       "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
       "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
-      "nav_path": "/live-tvs/bein-sports-1",
-      "name": "Bein Sports 1",
-      "slug": "bein-sports-1",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
-      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -789,18 +777,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a26-7aa1-b461-6ac35c734b7e",
       "nav_path": "/live-tvs/teen-nick",
       "name": "Teen Nick",
@@ -837,6 +813,30 @@
       "ends_at": null
     },
     {
+      "identifier": "019efa45-e1c4-7180-ab7a-bbdda91a5f63",
+      "nav_path": "/live-tvs/syfy-tv",
+      "name": "SYFY TV",
+      "slug": "syfy-tv",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/syfy/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3a3a-76b6-a529-d6cfa50a835f",
+      "nav_path": "/live-tvs/tv9-bharatvarsh",
+      "name": "TV9 Bharatvarsh",
+      "slug": "tv9-bharatvarsh",
+      "description": "\nTV9 Bharatvarsh brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://s3.aynaott.com/storage/877703490615895c5df9de7b7c317d26",
+      "stream_url": "https://tvsen3.aynaott.com/v9NqPxRd/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019de785-39ab-7332-bcd6-ef5ce3093acb",
       "nav_path": "/live-tvs/news-time-bangla",
       "name": "News Time Bangla",
@@ -849,13 +849,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-e1c4-7180-ab7a-bbdda91a5f63",
-      "nav_path": "/live-tvs/syfy-tv",
-      "name": "SYFY TV",
-      "slug": "syfy-tv",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/syfy/index.m3u8",
+      "identifier": "019de785-3a5b-7aee-b7ea-2718e8251844",
+      "nav_path": "/live-tvs/news-india-24x7",
+      "name": "News India 24x7",
+      "slug": "news-india-24x7",
+      "description": "News India 24x7 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_50eab684012024afd51f7d4c4fcc7aa7_playmist_news_india_24x7_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/vG7Wpj7e/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -873,13 +873,25 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3a3a-76b6-a529-d6cfa50a835f",
-      "nav_path": "/live-tvs/tv9-bharatvarsh",
-      "name": "TV9 Bharatvarsh",
-      "slug": "tv9-bharatvarsh",
-      "description": "\nTV9 Bharatvarsh brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://s3.aynaott.com/storage/877703490615895c5df9de7b7c317d26",
-      "stream_url": "https://tvsen3.aynaott.com/v9NqPxRd/index.m3u8",
+      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
+      "nav_path": "/live-tvs/bein-sports-1",
+      "name": "Bein Sports 1",
+      "slug": "bein-sports-1",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
+      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -1492,18 +1504,6 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/17ba4c8d03335c590b01e900ba1d3a9a.jpg",
       "stream_url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3a5b-7aee-b7ea-2718e8251844",
-      "nav_path": "/live-tvs/news-india-24x7",
-      "name": "News India 24x7",
-      "slug": "news-india-24x7",
-      "description": "News India 24x7 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_50eab684012024afd51f7d4c4fcc7aa7_playmist_news_india_24x7_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/vG7Wpj7e/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
