@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "15-11-2026 at 01:24:25 PM",
+    "generated_on": "15-11-2026 at 10:27:07 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -717,18 +717,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bec-7c6d-aa44-9cee1291ec86",
-      "nav_path": "/live-tvs/axs",
-      "name": "AXS",
-      "slug": "axs",
-      "description": "AXS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-393f-770a-ab0d-525a2d2a00dc",
       "nav_path": "/live-tvs/somoy-tv",
       "name": "Somoy TV",
@@ -849,30 +837,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
-      "nav_path": "/live-tvs/ntv-europe",
-      "name": "NTV Europe",
-      "slug": "ntv-europe",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
-      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3c08-74f1-942b-3613fd2d61cf",
       "nav_path": "/live-tvs/iqra-bangla",
       "name": "Iqra Bangla",
@@ -904,6 +868,42 @@
       "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bec-7c6d-aa44-9cee1291ec86",
+      "nav_path": "/live-tvs/axs",
+      "name": "AXS",
+      "slug": "axs",
+      "description": "AXS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-e6cf-77d1-ab66-0528b71c3826",
+      "nav_path": "/live-tvs/ntv-europe",
+      "name": "NTV Europe",
+      "slug": "ntv-europe",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
+      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
