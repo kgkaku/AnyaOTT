@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "15-11-2026 at 04:42:54 AM",
+    "generated_on": "15-11-2026 at 01:24:25 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -837,18 +837,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39ab-7332-bcd6-ef5ce3093acb",
-      "nav_path": "/live-tvs/news-time-bangla",
-      "name": "News Time Bangla",
-      "slug": "news-time-bangla",
-      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3a5b-7aee-b7ea-2718e8251844",
       "nav_path": "/live-tvs/news-india-24x7",
       "name": "News India 24x7",
@@ -873,18 +861,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
-      "nav_path": "/live-tvs/bein-sports-1",
-      "name": "Bein Sports 1",
-      "slug": "bein-sports-1",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
-      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
       "nav_path": "/live-tvs/colors-bangla",
       "name": "Colors Bangla",
@@ -904,6 +880,30 @@
       "description": "iqra Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_1e415d048ff6a503320fe9e8cb703345_playmist_iqra_bangla_tv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019efa45-d907-74c0-b05a-87e38a871d8b",
+      "nav_path": "/live-tvs/bein-sports-1",
+      "name": "Bein Sports 1",
+      "slug": "bein-sports-1",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
+      "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39ab-7332-bcd6-ef5ce3093acb",
+      "nav_path": "/live-tvs/news-time-bangla",
+      "name": "News Time Bangla",
+      "slug": "news-time-bangla",
+      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
