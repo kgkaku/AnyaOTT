@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "16-11-2026 at 02:42:55 PM",
+    "generated_on": "17-11-2026 at 01:32:01 AM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -345,18 +345,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
-      "nav_path": "/live-tvs/fx-tv",
-      "name": "FX TV",
-      "slug": "fx-tv",
-      "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3be2-7139-8c0c-8009bd0b8c74",
       "nav_path": "/live-tvs/travel-xp",
       "name": "Travel XP",
@@ -477,18 +465,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-39f3-7ee4-82c5-582a3f749674",
-      "nav_path": "/live-tvs/dd-sports",
-      "name": "DD Sports",
-      "slug": "dd-sports",
-      "description": "DD Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg",
-      "stream_url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b65-7872-a707-c2324a037cc9",
       "nav_path": "/live-tvs/zoom-tv",
       "name": "Zoom TV",
@@ -532,18 +508,6 @@
       "description": "Discovery HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019efa45-e724-7ca0-90fd-8a837b01220c",
-      "nav_path": "/live-tvs/goldmines-bollywood",
-      "name": "Goldmines Bollywood",
-      "slug": "goldmines-bollywood",
-      "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -597,18 +561,6 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3b6f-701b-a832-1c50bb18b234",
-      "nav_path": "/live-tvs/b4u-hitz",
-      "name": "B4U Hitz",
-      "slug": "b4u-hitz",
-      "description": "B4U Hitz brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_9cba0e4a98d7a55986c6b194441ac753_playmist_b4u_hitz_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/B4UHitz/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
       "identifier": "019de785-3b9e-7f03-a443-6f49d828ee88",
       "nav_path": "/live-tvs/wild-tv",
       "name": "Wild TV",
@@ -628,18 +580,6 @@
       "description": "HGTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg",
       "stream_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
-      "nav_path": "/live-tvs/dbc-news",
-      "name": "DBC News",
-      "slug": "dbc-news",
-      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -736,18 +676,6 @@
       "description": "Revolt brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_9979536baae6e22d6ab814dcbea12453_playmist_revolt_400x400.jpg",
       "stream_url": "https://tvsen6.aynaott.com/revolt/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019de785-3b96-7e36-93b7-96e323b3f0a0",
-      "nav_path": "/live-tvs/life-time",
-      "name": "LIFE TIME",
-      "slug": "life-time",
-      "description": "LIFE TIME brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -873,25 +801,13 @@
       "ends_at": null
     },
     {
-      "identifier": "019de785-3ba2-744b-8df9-2fbba4e15303",
-      "nav_path": "/live-tvs/fox-business",
-      "name": "Fox business",
-      "slug": "fox-business",
-      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
-      "alternate_url": null,
-      "starts_at": null,
-      "ends_at": null
-    },
-    {
-      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "nav_path": "/live-tvs/colors-bangla",
-      "name": "Colors Bangla",
-      "slug": "colors-bangla",
+      "identifier": "019efa45-e724-7ca0-90fd-8a837b01220c",
+      "nav_path": "/live-tvs/goldmines-bollywood",
+      "name": "Goldmines Bollywood",
+      "slug": "goldmines-bollywood",
       "description": "",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
@@ -909,6 +825,78 @@
       "ends_at": null
     },
     {
+      "identifier": "019de785-3b96-7e36-93b7-96e323b3f0a0",
+      "nav_path": "/live-tvs/life-time",
+      "name": "LIFE TIME",
+      "slug": "life-time",
+      "description": "LIFE TIME brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3bc7-7ba1-b72d-13662809fa0b",
+      "nav_path": "/live-tvs/fx-tv",
+      "name": "FX TV",
+      "slug": "fx-tv",
+      "description": "FX TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-39f3-7ee4-82c5-582a3f749674",
+      "nav_path": "/live-tvs/dd-sports",
+      "name": "DD Sports",
+      "slug": "dd-sports",
+      "description": "DD Sports brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg",
+      "stream_url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "nav_path": "/live-tvs/colors-bangla",
+      "name": "Colors Bangla",
+      "slug": "colors-bangla",
+      "description": "",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3ba2-744b-8df9-2fbba4e15303",
+      "nav_path": "/live-tvs/fox-business",
+      "name": "Fox business",
+      "slug": "fox-business",
+      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3b6f-701b-a832-1c50bb18b234",
+      "nav_path": "/live-tvs/b4u-hitz",
+      "name": "B4U Hitz",
+      "slug": "b4u-hitz",
+      "description": "B4U Hitz brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_9cba0e4a98d7a55986c6b194441ac753_playmist_b4u_hitz_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/B4UHitz/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
       "identifier": "019efa45-e069-7f80-a70f-34d4f01b80ea",
       "nav_path": "/live-tvs/vtv-usa",
       "name": "VTV USA",
@@ -916,6 +904,18 @@
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg",
       "stream_url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8",
+      "alternate_url": null,
+      "starts_at": null,
+      "ends_at": null
+    },
+    {
+      "identifier": "019de785-3968-7782-b69b-7c6151ae6fe1",
+      "nav_path": "/live-tvs/dbc-news",
+      "name": "DBC News",
+      "slug": "dbc-news",
+      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
