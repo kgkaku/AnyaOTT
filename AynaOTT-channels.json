@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "AynaOTT Live Channels Playlist",
     "credit": "@kgkaku",
-    "generated_on": "28-11-2026 at 01:03:02 AM",
+    "generated_on": "28-11-2026 at 03:00:02 PM",
     "total_channels": 242,
     "active_channels": 234,
     "inactive_channels": 8
@@ -27,7 +27,7 @@
       "slug": "willow-sports-2",
       "description": "",
       "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+      "stream_url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8",
       "alternate_url": null,
       "starts_at": null,
       "ends_at": null
